@@ -70,6 +70,15 @@ app.layout = html.Div([
                 options=[{"label": usage, "value": usage} for usage in donnees["consommation"]["usage"].unique()],
                 value=donnees["consommation"]["usage"].unique()[0],
                 clearable=False
+            ),
+            html.Label("Période :"),
+            dcc.RangeSlider(
+                id="periode-slider",
+                min=0,
+                max=len(donnees["consommation"]["date"].unique()) - 1,
+                value=[0, len(donnees["consommation"]["date"].unique()) - 1],
+                marks={i: date[:5] for i, date in enumerate(sorted(donnees["consommation"]["date"].unique()))},
+                step=1
             )
         ], style={"width": "65%", "display": "inline-block", "verticalAlign": "top", "padding": "10px"})
     ], style={"marginBottom": "30px"}),
@@ -95,11 +104,15 @@ app.layout = html.Div([
 def enregistrer_callbacks(app, donnees):
     @app.callback(
         Output("graph-consommation-orientation", "figure"),
-        [Input("niveau-dropdown", "value"), Input("usage-dropdown", "value")]
+        [Input("niveau-dropdown", "value"),
+         Input("usage-dropdown", "value"),
+         Input("periode-slider", "value")]
     )
-    def update_graph_orientation(niveau, usage):
+    def update_graph_orientation(niveau, usage, periode):
         df = donnees["consommation"]
-        filtered_df = df[(df["niveau"] == niveau) & (df["usage"] == usage)]
+        dates = sorted(df["date"].unique())
+        selected_dates = dates[periode[0]:periode[1]+1]
+        filtered_df = df[(df["niveau"] == niveau) & (df["usage"] == usage) & (df["date"].isin(selected_dates))]
         fig = px.bar(
             filtered_df.groupby("orientation")["consommation"].sum().reset_index(),
             x="orientation",
@@ -111,11 +124,15 @@ def enregistrer_callbacks(app, donnees):
 
     @app.callback(
         Output("graph-evolution-consommation", "figure"),
-        [Input("niveau-dropdown", "value"), Input("usage-dropdown", "value")]
+        [Input("niveau-dropdown", "value"),
+         Input("usage-dropdown", "value"),
+         Input("periode-slider", "value")]
     )
-    def update_graph_evolution(niveau, usage):
+    def update_graph_evolution(niveau, usage, periode):
         df = donnees["consommation"]
-        filtered_df = df[(df["niveau"] == niveau) & (df["usage"] == usage)]
+        dates = sorted(df["date"].unique())
+        selected_dates = dates[periode[0]:periode[1]+1]
+        filtered_df = df[(df["niveau"] == niveau) & (df["usage"] == usage) & (df["date"].isin(selected_dates))]
         fig = px.line(
             filtered_df,
             x="date",
