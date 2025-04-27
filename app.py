@@ -175,8 +175,8 @@ def creer_tableau_bord(donnees):
     
     # Création de l'application Dash
     app = dash.Dash(__name__, suppress_callback_exceptions=True)
-server = app.server
-    
+    server = app.server
+
     # Définition de la mise en page
     app.layout = html.Div([
         html.H1("Tableau de Bord de Maintenance Énergétique", style={"textAlign": "center", "marginBottom": "30px"}),
@@ -194,7 +194,11 @@ server = app.server
                     html.P(f"Date de génération: {metadata['date_generation']}")
                 ], style={"padding": "15px", "backgroundColor": "#f8f9fa", "borderRadius": "5px"})
             ], style={"width": "30%", "display": "inline-block", "verticalAlign": "top", "padding": "10px"}),
-            
+            ...
+        ])
+    ], style={"margin": "0 auto", "maxWidth": "1200px", "padding": "20px"})
+
+             
             html.Div([
                 html.H3("Filtres", style={"textAlign": "center"}),
                 html.Label("Niveau:"),
