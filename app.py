@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
-"""
-Création d'un tableau de bord interactif avec carte des consommations énergétiques
-"""
-
 import dash
 from dash import dcc, html, Input, Output
 import plotly.express as px
@@ -13,7 +6,7 @@ import json
 import os
 import shutil
 
-# Chargement des données
+# Chargement des donnees
 def charger_donnees():
     try:
         df_consommation = pd.read_csv("output/data/consommation.csv")
@@ -34,15 +27,17 @@ def charger_donnees():
         print(f"Erreur lors du chargement des données: {e}")
         return None
 
-# Création de l'application Dash
+# Initialisation des donnees
 donnees = charger_donnees()
 
 if donnees is None:
-    raise Exception("Erreur : impossible de charger les données. Vérifiez vos fichiers de données.")
+    raise Exception("Erreur : Impossible de charger les données.")
 
+# Initialisation de l'app Dash
 app = dash.Dash(__name__, suppress_callback_exceptions=True)
 server = app.server
 
+# Layout de l'application
 app.layout = html.Div([
     html.H1("Tableau de Bord de Maintenance Énergétique", style={"textAlign": "center", "marginBottom": "30px"}),
 
@@ -52,60 +47,117 @@ app.layout = html.Div([
             html.Div([
                 html.P(f"Surface totale du bâtiment : {donnees['metadata']['surface_totale']} m²"),
                 html.P(f"Surface des panneaux photovoltaïques : {donnees['metadata']['surface_pv']} m²"),
-                html.P(f"Consommation totale : {donnees['metadata']['consommation_totale']} kWh"),
-                html.P(f"Production totale : {donnees['metadata']['production_totale']} kWh"),
-                html.P(f"Température moyenne : {donnees['metadata']['temperature_moyenne']} °C"),
+                html.P(f"Consommation totale : {donnees['metadata']['consommation_totale']:.2f} kWh"),
+                html.P(f"Production totale : {donnees['metadata']['production_totale']:.2f} kWh"),
+                html.P(f"Température moyenne : {donnees['metadata']['temperature_moyenne']:.1f} °C"),
                 html.P(f"Taux moyen de CO2 : {donnees['metadata']['co2_moyen']} ppm"),
                 html.P(f"Date de génération : {donnees['metadata']['date_generation']}")
             ], style={"padding": "15px", "backgroundColor": "#f8f9fa", "borderRadius": "5px"})
-        ], style={"width": "40%", "display": "inline-block", "verticalAlign": "top"}),
+        ], style={"width": "30%", "display": "inline-block", "verticalAlign": "top", "padding": "10px"}),
 
         html.Div([
             html.H3("Filtres", style={"textAlign": "center"}),
+            html.Label("Niveau :"),
             dcc.Dropdown(
                 id="niveau-dropdown",
                 options=[{"label": niveau, "value": niveau} for niveau in donnees["consommation"]["niveau"].unique()],
-                value=donnees["consommation"]["niveau"].unique()[0]
+                value=donnees["consommation"]["niveau"].unique()[0],
+                clearable=False
             ),
+            html.Label("Usage :"),
             dcc.Dropdown(
                 id="usage-dropdown",
                 options=[{"label": usage, "value": usage} for usage in donnees["consommation"]["usage"].unique()],
-                value=donnees["consommation"]["usage"].unique()[0]
+                value=donnees["consommation"]["usage"].unique()[0],
+                clearable=False
             )
-        ], style={"width": "55%", "display": "inline-block", "verticalAlign": "top", "marginLeft": "5%"})
-    ], style={"marginBottom": "40px"}),
+        ], style={"width": "65%", "display": "inline-block", "verticalAlign": "top", "padding": "10px"})
+    ], style={"marginBottom": "30px"}),
 
     html.Div([
-        html.H3("Graphique Consommation", style={"textAlign": "center"}),
-        dcc.Graph(id="graph-consommation")
-    ])
+        dcc.Graph(id="graph-consommation-orientation"),
+        dcc.Graph(id="graph-evolution-consommation"),
+        dcc.Graph(id="graph-production-pv"),
+        dcc.Graph(id="graph-temperature")
+    ], style={"marginBottom": "30px"}),
+
+    html.Div([
+        html.H3("Carte Interactive des Consommations", style={"textAlign": "center"}),
+        html.Iframe(
+            id="carte-iframe",
+            src="/assets/carte_consommations.html",
+            style={"width": "100%", "height": "500px", "border": "none"}
+        )
+    ], style={"marginBottom": "30px"})
 ])
 
-# Callbacks pour mettre à jour les graphiques
-@app.callback(
-    Output("graph-consommation", "figure"),
-    Input("niveau-dropdown", "value"),
-    Input("usage-dropdown", "value")
-)
-def update_graph(niveau, usage):
-    df = donnees["consommation"]
-    filtered_df = df[(df["niveau"] == niveau) & (df["usage"] == usage)]
-
-    fig = px.line(
-        filtered_df,
-        x="date",
-        y="consommation",
-        title=f"Consommation énergétique - {niveau} - {usage}",
-        labels={"date": "Date", "consommation": "Consommation (kWh)"}
+# Callbacks
+def enregistrer_callbacks(app, donnees):
+    @app.callback(
+        Output("graph-consommation-orientation", "figure"),
+        [Input("niveau-dropdown", "value"), Input("usage-dropdown", "value")]
     )
-    return fig
+    def update_graph_orientation(niveau, usage):
+        df = donnees["consommation"]
+        filtered_df = df[(df["niveau"] == niveau) & (df["usage"] == usage)]
+        fig = px.bar(
+            filtered_df.groupby("orientation")["consommation"].sum().reset_index(),
+            x="orientation",
+            y="consommation",
+            color="orientation",
+            labels={"orientation": "Orientation", "consommation": "Consommation (kWh)"}
+        )
+        return fig
 
-# Création du dossier assets et copie du fichier carte (si nécessaire)
+    @app.callback(
+        Output("graph-evolution-consommation", "figure"),
+        [Input("niveau-dropdown", "value"), Input("usage-dropdown", "value")]
+    )
+    def update_graph_evolution(niveau, usage):
+        df = donnees["consommation"]
+        filtered_df = df[(df["niveau"] == niveau) & (df["usage"] == usage)]
+        fig = px.line(
+            filtered_df,
+            x="date",
+            y="consommation",
+            color="orientation",
+            labels={"date": "Date", "consommation": "Consommation (kWh)"}
+        )
+        return fig
+
+    @app.callback(
+        Output("graph-production-pv", "figure"),
+        [Input("niveau-dropdown", "value")]
+    )
+    def update_graph_production(niveau):
+        df = donnees["production"]
+        fig = px.bar(df, x="date", y="production", labels={"date": "Date", "production": "Production (kWh)"})
+        return fig
+
+    @app.callback(
+        Output("graph-temperature", "figure"),
+        [Input("niveau-dropdown", "value")]
+    )
+    def update_graph_temperature(niveau):
+        df = donnees["temperature"]
+        filtered_df = df[df["niveau"] == niveau]
+        fig = px.line(
+            filtered_df,
+            x="date",
+            y="temperature",
+            color="orientation",
+            labels={"date": "Date", "temperature": "Température (°C)"}
+        )
+        return fig
+
+# Enregistrement des callbacks
+enregistrer_callbacks(app, donnees)
+
+# Copie de la carte folium dans assets
 os.makedirs("assets", exist_ok=True)
 if os.path.exists("output/cartes/carte_consommations.html"):
     shutil.copy("output/cartes/carte_consommations.html", "assets/carte_consommations.html")
 
-# Point d'entrée standard pour Gunicorn
 if __name__ == "__main__":
-    port = int(os.environ.get('PORT', 8050))
-    app.run(host="0.0.0.0", port=port)
+    port = int(os.environ.get("PORT", 8050))
+    app.run(debug=False, host="0.0.0.0", port=port)
