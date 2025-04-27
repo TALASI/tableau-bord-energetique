@@ -1,0 +1,1041 @@
+zone_id,zone_nom,niveau,orientation,usage,date,annee,mois,consommation,surface
+zone_1,Zone Nord - RDC,RDC,Nord,Chauffage,2024-04-01,2024,4,519.54,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Chauffage,2024-05-01,2024,5,300.54,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Chauffage,2024-06-01,2024,6,0.0,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Chauffage,2024-07-01,2024,7,0.0,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Chauffage,2024-08-01,2024,8,0.0,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Chauffage,2024-09-01,2024,9,213.03,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Chauffage,2024-10-01,2024,10,526.08,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Chauffage,2024-11-01,2024,11,780.08,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Chauffage,2024-12-01,2024,12,973.71,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Chauffage,2025-01-01,2025,1,978.3,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Chauffage,2025-02-01,2025,2,942.38,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Chauffage,2025-03-01,2025,3,901.22,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Chauffage,2025-04-01,2025,4,574.91,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Refroidissement,2024-04-01,2024,4,63.8,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Refroidissement,2024-05-01,2024,5,181.54,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Refroidissement,2024-06-01,2024,6,395.64,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Refroidissement,2024-07-01,2024,7,473.93,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Refroidissement,2024-08-01,2024,8,423.46,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Refroidissement,2024-09-01,2024,9,235.08,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Refroidissement,2024-10-01,2024,10,92.46,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Refroidissement,2024-11-01,2024,11,0.0,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Refroidissement,2024-12-01,2024,12,0.0,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Refroidissement,2025-01-01,2025,1,0.0,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Refroidissement,2025-02-01,2025,2,0.0,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Refroidissement,2025-03-01,2025,3,0.0,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Refroidissement,2025-04-01,2025,4,66.05,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Ventilation,2024-04-01,2024,4,184.26,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Ventilation,2024-05-01,2024,5,223.13,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Ventilation,2024-06-01,2024,6,234.5,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Ventilation,2024-07-01,2024,7,252.32,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Ventilation,2024-08-01,2024,8,230.87,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Ventilation,2024-09-01,2024,9,195.2,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Ventilation,2024-10-01,2024,10,199.34,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Ventilation,2024-11-01,2024,11,167.79,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Ventilation,2024-12-01,2024,12,145.62,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Ventilation,2025-01-01,2025,1,157.95,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Ventilation,2025-02-01,2025,2,163.55,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Ventilation,2025-03-01,2025,3,165.88,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Ventilation,2025-04-01,2025,4,188.71,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Éclairage,2024-04-01,2024,4,273.07,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Éclairage,2024-05-01,2024,5,209.46,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Éclairage,2024-06-01,2024,6,202.28,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Éclairage,2024-07-01,2024,7,209.9,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Éclairage,2024-08-01,2024,8,235.88,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Éclairage,2024-09-01,2024,9,250.96,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Éclairage,2024-10-01,2024,10,259.37,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Éclairage,2024-11-01,2024,11,295.12,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Éclairage,2024-12-01,2024,12,346.09,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Éclairage,2025-01-01,2025,1,351.12,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Éclairage,2025-02-01,2025,2,305.45,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Éclairage,2025-03-01,2025,3,290.72,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Éclairage,2025-04-01,2025,4,242.41,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Prises de courant,2024-04-01,2024,4,387.92,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Prises de courant,2024-05-01,2024,5,362.2,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Prises de courant,2024-06-01,2024,6,406.07,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Prises de courant,2024-07-01,2024,7,338.72,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Prises de courant,2024-08-01,2024,8,309.92,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Prises de courant,2024-09-01,2024,9,357.74,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Prises de courant,2024-10-01,2024,10,426.16,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Prises de courant,2024-11-01,2024,11,404.42,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Prises de courant,2024-12-01,2024,12,360.48,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Prises de courant,2025-01-01,2025,1,422.1,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Prises de courant,2025-02-01,2025,2,382.73,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Prises de courant,2025-03-01,2025,3,364.57,156.25
+zone_1,Zone Nord - RDC,RDC,Nord,Prises de courant,2025-04-01,2025,4,379.22,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Chauffage,2024-04-01,2024,4,366.68,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Chauffage,2024-05-01,2024,5,196.15,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Chauffage,2024-06-01,2024,6,0.0,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Chauffage,2024-07-01,2024,7,0.0,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Chauffage,2024-08-01,2024,8,0.0,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Chauffage,2024-09-01,2024,9,149.9,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Chauffage,2024-10-01,2024,10,326.3,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Chauffage,2024-11-01,2024,11,496.39,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Chauffage,2024-12-01,2024,12,675.07,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Chauffage,2025-01-01,2025,1,679.11,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Chauffage,2025-02-01,2025,2,696.74,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Chauffage,2025-03-01,2025,3,540.55,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Chauffage,2025-04-01,2025,4,358.98,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Refroidissement,2024-04-01,2024,4,102.98,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Refroidissement,2024-05-01,2024,5,278.7,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Refroidissement,2024-06-01,2024,6,530.16,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Refroidissement,2024-07-01,2024,7,679.95,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Refroidissement,2024-08-01,2024,8,597.64,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Refroidissement,2024-09-01,2024,9,350.98,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Refroidissement,2024-10-01,2024,10,144.36,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Refroidissement,2024-11-01,2024,11,0.0,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Refroidissement,2024-12-01,2024,12,0.0,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Refroidissement,2025-01-01,2025,1,0.0,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Refroidissement,2025-02-01,2025,2,0.0,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Refroidissement,2025-03-01,2025,3,0.0,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Refroidissement,2025-04-01,2025,4,99.7,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Ventilation,2024-04-01,2024,4,201.2,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Ventilation,2024-05-01,2024,5,210.17,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Ventilation,2024-06-01,2024,6,245.4,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Ventilation,2024-07-01,2024,7,243.97,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Ventilation,2024-08-01,2024,8,218.56,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Ventilation,2024-09-01,2024,9,208.96,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Ventilation,2024-10-01,2024,10,196.86,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Ventilation,2024-11-01,2024,11,171.24,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Ventilation,2024-12-01,2024,12,168.34,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Ventilation,2025-01-01,2025,1,157.19,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Ventilation,2025-02-01,2025,2,166.19,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Ventilation,2025-03-01,2025,3,161.76,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Ventilation,2025-04-01,2025,4,208.3,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Éclairage,2024-04-01,2024,4,197.98,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Éclairage,2024-05-01,2024,5,203.94,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Éclairage,2024-06-01,2024,6,168.94,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Éclairage,2024-07-01,2024,7,158.68,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Éclairage,2024-08-01,2024,8,197.82,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Éclairage,2024-09-01,2024,9,227.15,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Éclairage,2024-10-01,2024,10,233.46,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Éclairage,2024-11-01,2024,11,238.37,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Éclairage,2024-12-01,2024,12,293.05,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Éclairage,2025-01-01,2025,1,278.19,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Éclairage,2025-02-01,2025,2,233.26,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Éclairage,2025-03-01,2025,3,224.22,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Éclairage,2025-04-01,2025,4,198.54,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Prises de courant,2024-04-01,2024,4,378.78,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Prises de courant,2024-05-01,2024,5,369.55,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Prises de courant,2024-06-01,2024,6,425.42,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Prises de courant,2024-07-01,2024,7,314.19,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Prises de courant,2024-08-01,2024,8,331.7,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Prises de courant,2024-09-01,2024,9,361.48,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Prises de courant,2024-10-01,2024,10,408.26,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Prises de courant,2024-11-01,2024,11,418.71,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Prises de courant,2024-12-01,2024,12,377.08,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Prises de courant,2025-01-01,2025,1,420.27,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Prises de courant,2025-02-01,2025,2,385.58,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Prises de courant,2025-03-01,2025,3,392.89,156.25
+zone_2,Zone Sud - RDC,RDC,Sud,Prises de courant,2025-04-01,2025,4,383.04,156.25
+zone_3,Zone Est - RDC,RDC,Est,Chauffage,2024-04-01,2024,4,470.86,156.25
+zone_3,Zone Est - RDC,RDC,Est,Chauffage,2024-05-01,2024,5,231.68,156.25
+zone_3,Zone Est - RDC,RDC,Est,Chauffage,2024-06-01,2024,6,0.0,156.25
+zone_3,Zone Est - RDC,RDC,Est,Chauffage,2024-07-01,2024,7,0.0,156.25
+zone_3,Zone Est - RDC,RDC,Est,Chauffage,2024-08-01,2024,8,0.0,156.25
+zone_3,Zone Est - RDC,RDC,Est,Chauffage,2024-09-01,2024,9,164.69,156.25
+zone_3,Zone Est - RDC,RDC,Est,Chauffage,2024-10-01,2024,10,438.8,156.25
+zone_3,Zone Est - RDC,RDC,Est,Chauffage,2024-11-01,2024,11,629.59,156.25
+zone_3,Zone Est - RDC,RDC,Est,Chauffage,2024-12-01,2024,12,851.44,156.25
+zone_3,Zone Est - RDC,RDC,Est,Chauffage,2025-01-01,2025,1,878.11,156.25
+zone_3,Zone Est - RDC,RDC,Est,Chauffage,2025-02-01,2025,2,821.11,156.25
+zone_3,Zone Est - RDC,RDC,Est,Chauffage,2025-03-01,2025,3,710.5,156.25
+zone_3,Zone Est - RDC,RDC,Est,Chauffage,2025-04-01,2025,4,491.59,156.25
+zone_3,Zone Est - RDC,RDC,Est,Refroidissement,2024-04-01,2024,4,90.9,156.25
+zone_3,Zone Est - RDC,RDC,Est,Refroidissement,2024-05-01,2024,5,248.66,156.25
+zone_3,Zone Est - RDC,RDC,Est,Refroidissement,2024-06-01,2024,6,524.07,156.25
+zone_3,Zone Est - RDC,RDC,Est,Refroidissement,2024-07-01,2024,7,615.21,156.25
+zone_3,Zone Est - RDC,RDC,Est,Refroidissement,2024-08-01,2024,8,638.32,156.25
+zone_3,Zone Est - RDC,RDC,Est,Refroidissement,2024-09-01,2024,9,355.58,156.25
+zone_3,Zone Est - RDC,RDC,Est,Refroidissement,2024-10-01,2024,10,130.92,156.25
+zone_3,Zone Est - RDC,RDC,Est,Refroidissement,2024-11-01,2024,11,0.0,156.25
+zone_3,Zone Est - RDC,RDC,Est,Refroidissement,2024-12-01,2024,12,0.0,156.25
+zone_3,Zone Est - RDC,RDC,Est,Refroidissement,2025-01-01,2025,1,0.0,156.25
+zone_3,Zone Est - RDC,RDC,Est,Refroidissement,2025-02-01,2025,2,0.0,156.25
+zone_3,Zone Est - RDC,RDC,Est,Refroidissement,2025-03-01,2025,3,0.0,156.25
+zone_3,Zone Est - RDC,RDC,Est,Refroidissement,2025-04-01,2025,4,86.32,156.25
+zone_3,Zone Est - RDC,RDC,Est,Ventilation,2024-04-01,2024,4,186.18,156.25
+zone_3,Zone Est - RDC,RDC,Est,Ventilation,2024-05-01,2024,5,211.1,156.25
+zone_3,Zone Est - RDC,RDC,Est,Ventilation,2024-06-01,2024,6,256.36,156.25
+zone_3,Zone Est - RDC,RDC,Est,Ventilation,2024-07-01,2024,7,249.85,156.25
+zone_3,Zone Est - RDC,RDC,Est,Ventilation,2024-08-01,2024,8,223.73,156.25
+zone_3,Zone Est - RDC,RDC,Est,Ventilation,2024-09-01,2024,9,209.14,156.25
+zone_3,Zone Est - RDC,RDC,Est,Ventilation,2024-10-01,2024,10,192.53,156.25
+zone_3,Zone Est - RDC,RDC,Est,Ventilation,2024-11-01,2024,11,179.13,156.25
+zone_3,Zone Est - RDC,RDC,Est,Ventilation,2024-12-01,2024,12,144.52,156.25
+zone_3,Zone Est - RDC,RDC,Est,Ventilation,2025-01-01,2025,1,167.64,156.25
+zone_3,Zone Est - RDC,RDC,Est,Ventilation,2025-02-01,2025,2,171.55,156.25
+zone_3,Zone Est - RDC,RDC,Est,Ventilation,2025-03-01,2025,3,165.14,156.25
+zone_3,Zone Est - RDC,RDC,Est,Ventilation,2025-04-01,2025,4,210.3,156.25
+zone_3,Zone Est - RDC,RDC,Est,Éclairage,2024-04-01,2024,4,227.9,156.25
+zone_3,Zone Est - RDC,RDC,Est,Éclairage,2024-05-01,2024,5,189.34,156.25
+zone_3,Zone Est - RDC,RDC,Est,Éclairage,2024-06-01,2024,6,174.43,156.25
+zone_3,Zone Est - RDC,RDC,Est,Éclairage,2024-07-01,2024,7,174.9,156.25
+zone_3,Zone Est - RDC,RDC,Est,Éclairage,2024-08-01,2024,8,212.18,156.25
+zone_3,Zone Est - RDC,RDC,Est,Éclairage,2024-09-01,2024,9,256.13,156.25
+zone_3,Zone Est - RDC,RDC,Est,Éclairage,2024-10-01,2024,10,251.58,156.25
+zone_3,Zone Est - RDC,RDC,Est,Éclairage,2024-11-01,2024,11,269.89,156.25
+zone_3,Zone Est - RDC,RDC,Est,Éclairage,2024-12-01,2024,12,335.31,156.25
+zone_3,Zone Est - RDC,RDC,Est,Éclairage,2025-01-01,2025,1,306.21,156.25
+zone_3,Zone Est - RDC,RDC,Est,Éclairage,2025-02-01,2025,2,312.21,156.25
+zone_3,Zone Est - RDC,RDC,Est,Éclairage,2025-03-01,2025,3,257.98,156.25
+zone_3,Zone Est - RDC,RDC,Est,Éclairage,2025-04-01,2025,4,214.33,156.25
+zone_3,Zone Est - RDC,RDC,Est,Prises de courant,2024-04-01,2024,4,376.94,156.25
+zone_3,Zone Est - RDC,RDC,Est,Prises de courant,2024-05-01,2024,5,378.58,156.25
+zone_3,Zone Est - RDC,RDC,Est,Prises de courant,2024-06-01,2024,6,384.37,156.25
+zone_3,Zone Est - RDC,RDC,Est,Prises de courant,2024-07-01,2024,7,303.84,156.25
+zone_3,Zone Est - RDC,RDC,Est,Prises de courant,2024-08-01,2024,8,330.4,156.25
+zone_3,Zone Est - RDC,RDC,Est,Prises de courant,2024-09-01,2024,9,412.18,156.25
+zone_3,Zone Est - RDC,RDC,Est,Prises de courant,2024-10-01,2024,10,407.26,156.25
+zone_3,Zone Est - RDC,RDC,Est,Prises de courant,2024-11-01,2024,11,399.9,156.25
+zone_3,Zone Est - RDC,RDC,Est,Prises de courant,2024-12-01,2024,12,420.7,156.25
+zone_3,Zone Est - RDC,RDC,Est,Prises de courant,2025-01-01,2025,1,358.13,156.25
+zone_3,Zone Est - RDC,RDC,Est,Prises de courant,2025-02-01,2025,2,378.15,156.25
+zone_3,Zone Est - RDC,RDC,Est,Prises de courant,2025-03-01,2025,3,364.09,156.25
+zone_3,Zone Est - RDC,RDC,Est,Prises de courant,2025-04-01,2025,4,428.52,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Chauffage,2024-04-01,2024,4,456.81,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Chauffage,2024-05-01,2024,5,241.65,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Chauffage,2024-06-01,2024,6,0.0,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Chauffage,2024-07-01,2024,7,0.0,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Chauffage,2024-08-01,2024,8,0.0,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Chauffage,2024-09-01,2024,9,159.85,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Chauffage,2024-10-01,2024,10,440.78,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Chauffage,2024-11-01,2024,11,603.16,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Chauffage,2024-12-01,2024,12,861.33,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Chauffage,2025-01-01,2025,1,837.16,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Chauffage,2025-02-01,2025,2,773.68,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Chauffage,2025-03-01,2025,3,688.93,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Chauffage,2025-04-01,2025,4,437.05,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Refroidissement,2024-04-01,2024,4,87.04,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Refroidissement,2024-05-01,2024,5,253.4,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Refroidissement,2024-06-01,2024,6,485.53,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Refroidissement,2024-07-01,2024,7,589.17,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Refroidissement,2024-08-01,2024,8,579.06,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Refroidissement,2024-09-01,2024,9,318.22,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Refroidissement,2024-10-01,2024,10,140.93,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Refroidissement,2024-11-01,2024,11,0.0,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Refroidissement,2024-12-01,2024,12,0.0,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Refroidissement,2025-01-01,2025,1,0.0,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Refroidissement,2025-02-01,2025,2,0.0,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Refroidissement,2025-03-01,2025,3,0.0,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Refroidissement,2025-04-01,2025,4,92.13,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Ventilation,2024-04-01,2024,4,196.68,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Ventilation,2024-05-01,2024,5,215.58,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Ventilation,2024-06-01,2024,6,223.14,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Ventilation,2024-07-01,2024,7,227.88,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Ventilation,2024-08-01,2024,8,224.43,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Ventilation,2024-09-01,2024,9,195.69,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Ventilation,2024-10-01,2024,10,208.1,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Ventilation,2024-11-01,2024,11,164.52,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Ventilation,2024-12-01,2024,12,168.79,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Ventilation,2025-01-01,2025,1,157.65,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Ventilation,2025-02-01,2025,2,146.2,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Ventilation,2025-03-01,2025,3,184.87,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Ventilation,2025-04-01,2025,4,176.1,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Éclairage,2024-04-01,2024,4,243.64,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Éclairage,2024-05-01,2024,5,201.93,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Éclairage,2024-06-01,2024,6,176.01,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Éclairage,2024-07-01,2024,7,198.33,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Éclairage,2024-08-01,2024,8,213.82,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Éclairage,2024-09-01,2024,9,229.85,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Éclairage,2024-10-01,2024,10,256.34,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Éclairage,2024-11-01,2024,11,285.16,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Éclairage,2024-12-01,2024,12,299.04,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Éclairage,2025-01-01,2025,1,319.57,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Éclairage,2025-02-01,2025,2,261.05,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Éclairage,2025-03-01,2025,3,248.75,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Éclairage,2025-04-01,2025,4,227.51,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Prises de courant,2024-04-01,2024,4,424.95,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Prises de courant,2024-05-01,2024,5,407.34,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Prises de courant,2024-06-01,2024,6,379.39,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Prises de courant,2024-07-01,2024,7,299.69,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Prises de courant,2024-08-01,2024,8,315.97,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Prises de courant,2024-09-01,2024,9,407.02,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Prises de courant,2024-10-01,2024,10,407.75,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Prises de courant,2024-11-01,2024,11,382.5,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Prises de courant,2024-12-01,2024,12,423.76,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Prises de courant,2025-01-01,2025,1,407.87,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Prises de courant,2025-02-01,2025,2,379.65,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Prises de courant,2025-03-01,2025,3,390.9,156.25
+zone_4,Zone Ouest - RDC,RDC,Ouest,Prises de courant,2025-04-01,2025,4,411.92,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Chauffage,2024-04-01,2024,4,535.76,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Chauffage,2024-05-01,2024,5,264.25,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Chauffage,2024-06-01,2024,6,0.0,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Chauffage,2024-07-01,2024,7,0.0,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Chauffage,2024-08-01,2024,8,0.0,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Chauffage,2024-09-01,2024,9,204.29,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Chauffage,2024-10-01,2024,10,466.21,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Chauffage,2024-11-01,2024,11,739.25,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Chauffage,2024-12-01,2024,12,859.46,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Chauffage,2025-01-01,2025,1,883.09,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Chauffage,2025-02-01,2025,2,824.59,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Chauffage,2025-03-01,2025,3,768.37,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Chauffage,2025-04-01,2025,4,521.03,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Refroidissement,2024-04-01,2024,4,68.29,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Refroidissement,2024-05-01,2024,5,197.56,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Refroidissement,2024-06-01,2024,6,385.42,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Refroidissement,2024-07-01,2024,7,504.18,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Refroidissement,2024-08-01,2024,8,476.0,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Refroidissement,2024-09-01,2024,9,263.51,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Refroidissement,2024-10-01,2024,10,89.54,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Refroidissement,2024-11-01,2024,11,0.0,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Refroidissement,2024-12-01,2024,12,0.0,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Refroidissement,2025-01-01,2025,1,0.0,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Refroidissement,2025-02-01,2025,2,0.0,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Refroidissement,2025-03-01,2025,3,0.0,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Refroidissement,2025-04-01,2025,4,60.25,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Ventilation,2024-04-01,2024,4,187.12,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Ventilation,2024-05-01,2024,5,218.06,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Ventilation,2024-06-01,2024,6,239.38,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Ventilation,2024-07-01,2024,7,255.57,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Ventilation,2024-08-01,2024,8,224.34,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Ventilation,2024-09-01,2024,9,195.54,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Ventilation,2024-10-01,2024,10,177.84,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Ventilation,2024-11-01,2024,11,163.79,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Ventilation,2024-12-01,2024,12,165.56,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Ventilation,2025-01-01,2025,1,148.38,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Ventilation,2025-02-01,2025,2,144.26,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Ventilation,2025-03-01,2025,3,176.82,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Ventilation,2025-04-01,2025,4,177.88,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Éclairage,2024-04-01,2024,4,249.01,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Éclairage,2024-05-01,2024,5,241.98,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Éclairage,2024-06-01,2024,6,188.5,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Éclairage,2024-07-01,2024,7,191.87,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Éclairage,2024-08-01,2024,8,214.52,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Éclairage,2024-09-01,2024,9,258.67,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Éclairage,2024-10-01,2024,10,285.31,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Éclairage,2024-11-01,2024,11,343.86,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Éclairage,2024-12-01,2024,12,330.23,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Éclairage,2025-01-01,2025,1,370.51,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Éclairage,2025-02-01,2025,2,291.69,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Éclairage,2025-03-01,2025,3,306.24,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Éclairage,2025-04-01,2025,4,261.64,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Prises de courant,2024-04-01,2024,4,328.12,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Prises de courant,2024-05-01,2024,5,293.66,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Prises de courant,2024-06-01,2024,6,322.76,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Prises de courant,2024-07-01,2024,7,240.47,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Prises de courant,2024-08-01,2024,8,258.77,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Prises de courant,2024-09-01,2024,9,336.81,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Prises de courant,2024-10-01,2024,10,348.31,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Prises de courant,2024-11-01,2024,11,321.61,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Prises de courant,2024-12-01,2024,12,327.92,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Prises de courant,2025-01-01,2025,1,333.77,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Prises de courant,2025-02-01,2025,2,346.22,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Prises de courant,2025-03-01,2025,3,294.35,156.25
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,Prises de courant,2025-04-01,2025,4,355.28,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Chauffage,2024-04-01,2024,4,343.88,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Chauffage,2024-05-01,2024,5,179.73,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Chauffage,2024-06-01,2024,6,0.0,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Chauffage,2024-07-01,2024,7,0.0,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Chauffage,2024-08-01,2024,8,0.0,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Chauffage,2024-09-01,2024,9,133.76,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Chauffage,2024-10-01,2024,10,278.3,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Chauffage,2024-11-01,2024,11,457.85,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Chauffage,2024-12-01,2024,12,590.08,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Chauffage,2025-01-01,2025,1,577.21,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Chauffage,2025-02-01,2025,2,559.26,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Chauffage,2025-03-01,2025,3,495.86,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Chauffage,2025-04-01,2025,4,320.17,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Refroidissement,2024-04-01,2024,4,92.93,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Refroidissement,2024-05-01,2024,5,257.37,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Refroidissement,2024-06-01,2024,6,552.03,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Refroidissement,2024-07-01,2024,7,664.45,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Refroidissement,2024-08-01,2024,8,655.17,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Refroidissement,2024-09-01,2024,9,357.16,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Refroidissement,2024-10-01,2024,10,149.0,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Refroidissement,2024-11-01,2024,11,0.0,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Refroidissement,2024-12-01,2024,12,0.0,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Refroidissement,2025-01-01,2025,1,0.0,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Refroidissement,2025-02-01,2025,2,0.0,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Refroidissement,2025-03-01,2025,3,0.0,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Refroidissement,2025-04-01,2025,4,85.45,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Ventilation,2024-04-01,2024,4,205.54,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Ventilation,2024-05-01,2024,5,223.85,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Ventilation,2024-06-01,2024,6,251.33,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Ventilation,2024-07-01,2024,7,253.58,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Ventilation,2024-08-01,2024,8,227.71,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Ventilation,2024-09-01,2024,9,236.08,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Ventilation,2024-10-01,2024,10,209.48,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Ventilation,2024-11-01,2024,11,173.46,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Ventilation,2024-12-01,2024,12,167.38,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Ventilation,2025-01-01,2025,1,161.61,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Ventilation,2025-02-01,2025,2,143.42,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Ventilation,2025-03-01,2025,3,160.81,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Ventilation,2025-04-01,2025,4,180.71,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Éclairage,2024-04-01,2024,4,223.63,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Éclairage,2024-05-01,2024,5,201.92,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Éclairage,2024-06-01,2024,6,170.63,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Éclairage,2024-07-01,2024,7,149.94,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Éclairage,2024-08-01,2024,8,190.71,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Éclairage,2024-09-01,2024,9,214.73,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Éclairage,2024-10-01,2024,10,256.45,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Éclairage,2024-11-01,2024,11,279.35,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Éclairage,2024-12-01,2024,12,274.17,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Éclairage,2025-01-01,2025,1,294.28,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Éclairage,2025-02-01,2025,2,276.26,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Éclairage,2025-03-01,2025,3,239.41,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Éclairage,2025-04-01,2025,4,229.04,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Prises de courant,2024-04-01,2024,4,318.98,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Prises de courant,2024-05-01,2024,5,343.25,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Prises de courant,2024-06-01,2024,6,305.83,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Prises de courant,2024-07-01,2024,7,260.74,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Prises de courant,2024-08-01,2024,8,264.58,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Prises de courant,2024-09-01,2024,9,332.16,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Prises de courant,2024-10-01,2024,10,324.21,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Prises de courant,2024-11-01,2024,11,330.18,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Prises de courant,2024-12-01,2024,12,298.76,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Prises de courant,2025-01-01,2025,1,348.49,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Prises de courant,2025-02-01,2025,2,309.44,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Prises de courant,2025-03-01,2025,3,317.72,156.25
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,Prises de courant,2025-04-01,2025,4,301.76,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Chauffage,2024-04-01,2024,4,424.62,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Chauffage,2024-05-01,2024,5,222.55,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Chauffage,2024-06-01,2024,6,0.0,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Chauffage,2024-07-01,2024,7,0.0,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Chauffage,2024-08-01,2024,8,0.0,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Chauffage,2024-09-01,2024,9,160.22,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Chauffage,2024-10-01,2024,10,351.63,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Chauffage,2024-11-01,2024,11,627.77,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Chauffage,2024-12-01,2024,12,717.24,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Chauffage,2025-01-01,2025,1,753.9,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Chauffage,2025-02-01,2025,2,722.5,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Chauffage,2025-03-01,2025,3,612.08,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Chauffage,2025-04-01,2025,4,406.33,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Refroidissement,2024-04-01,2024,4,89.32,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Refroidissement,2024-05-01,2024,5,266.75,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Refroidissement,2024-06-01,2024,6,538.86,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Refroidissement,2024-07-01,2024,7,667.58,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Refroidissement,2024-08-01,2024,8,648.12,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Refroidissement,2024-09-01,2024,9,329.09,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Refroidissement,2024-10-01,2024,10,129.31,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Refroidissement,2024-11-01,2024,11,0.0,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Refroidissement,2024-12-01,2024,12,0.0,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Refroidissement,2025-01-01,2025,1,0.0,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Refroidissement,2025-02-01,2025,2,0.0,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Refroidissement,2025-03-01,2025,3,0.0,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Refroidissement,2025-04-01,2025,4,86.64,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Ventilation,2024-04-01,2024,4,184.41,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Ventilation,2024-05-01,2024,5,195.11,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Ventilation,2024-06-01,2024,6,246.47,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Ventilation,2024-07-01,2024,7,231.54,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Ventilation,2024-08-01,2024,8,236.9,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Ventilation,2024-09-01,2024,9,211.74,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Ventilation,2024-10-01,2024,10,187.16,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Ventilation,2024-11-01,2024,11,174.63,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Ventilation,2024-12-01,2024,12,159.77,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Ventilation,2025-01-01,2025,1,145.55,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Ventilation,2025-02-01,2025,2,146.35,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Ventilation,2025-03-01,2025,3,176.55,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Ventilation,2025-04-01,2025,4,210.15,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Éclairage,2024-04-01,2024,4,226.63,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Éclairage,2024-05-01,2024,5,202.19,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Éclairage,2024-06-01,2024,6,165.38,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Éclairage,2024-07-01,2024,7,194.64,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Éclairage,2024-08-01,2024,8,223.43,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Éclairage,2024-09-01,2024,9,229.78,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Éclairage,2024-10-01,2024,10,259.77,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Éclairage,2024-11-01,2024,11,290.42,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Éclairage,2024-12-01,2024,12,310.55,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Éclairage,2025-01-01,2025,1,285.71,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Éclairage,2025-02-01,2025,2,269.01,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Éclairage,2025-03-01,2025,3,269.33,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Éclairage,2025-04-01,2025,4,252.37,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Prises de courant,2024-04-01,2024,4,297.36,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Prises de courant,2024-05-01,2024,5,327.51,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Prises de courant,2024-06-01,2024,6,303.57,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Prises de courant,2024-07-01,2024,7,239.72,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Prises de courant,2024-08-01,2024,8,237.95,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Prises de courant,2024-09-01,2024,9,295.9,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Prises de courant,2024-10-01,2024,10,334.11,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Prises de courant,2024-11-01,2024,11,316.36,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Prises de courant,2024-12-01,2024,12,312.81,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Prises de courant,2025-01-01,2025,1,333.45,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Prises de courant,2025-02-01,2025,2,327.25,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Prises de courant,2025-03-01,2025,3,304.58,156.25
+zone_7,Zone Est - Étage 1,Étage 1,Est,Prises de courant,2025-04-01,2025,4,325.55,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Chauffage,2024-04-01,2024,4,406.27,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Chauffage,2024-05-01,2024,5,194.91,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Chauffage,2024-06-01,2024,6,0.0,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Chauffage,2024-07-01,2024,7,0.0,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Chauffage,2024-08-01,2024,8,0.0,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Chauffage,2024-09-01,2024,9,160.82,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Chauffage,2024-10-01,2024,10,353.26,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Chauffage,2024-11-01,2024,11,574.56,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Chauffage,2024-12-01,2024,12,760.44,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Chauffage,2025-01-01,2025,1,810.69,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Chauffage,2025-02-01,2025,2,764.64,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Chauffage,2025-03-01,2025,3,637.71,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Chauffage,2025-04-01,2025,4,423.21,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Refroidissement,2024-04-01,2024,4,81.27,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Refroidissement,2024-05-01,2024,5,244.6,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Refroidissement,2024-06-01,2024,6,492.78,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Refroidissement,2024-07-01,2024,7,689.35,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Refroidissement,2024-08-01,2024,8,544.63,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Refroidissement,2024-09-01,2024,9,310.38,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Refroidissement,2024-10-01,2024,10,125.47,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Refroidissement,2024-11-01,2024,11,0.0,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Refroidissement,2024-12-01,2024,12,0.0,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Refroidissement,2025-01-01,2025,1,0.0,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Refroidissement,2025-02-01,2025,2,0.0,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Refroidissement,2025-03-01,2025,3,0.0,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Refroidissement,2025-04-01,2025,4,78.39,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Ventilation,2024-04-01,2024,4,180.27,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Ventilation,2024-05-01,2024,5,197.57,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Ventilation,2024-06-01,2024,6,216.44,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Ventilation,2024-07-01,2024,7,224.54,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Ventilation,2024-08-01,2024,8,238.37,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Ventilation,2024-09-01,2024,9,234.91,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Ventilation,2024-10-01,2024,10,176.97,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Ventilation,2024-11-01,2024,11,158.68,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Ventilation,2024-12-01,2024,12,155.78,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Ventilation,2025-01-01,2025,1,140.89,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Ventilation,2025-02-01,2025,2,150.14,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Ventilation,2025-03-01,2025,3,187.39,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Ventilation,2025-04-01,2025,4,209.97,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Éclairage,2024-04-01,2024,4,251.19,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Éclairage,2024-05-01,2024,5,222.18,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Éclairage,2024-06-01,2024,6,167.12,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Éclairage,2024-07-01,2024,7,174.65,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Éclairage,2024-08-01,2024,8,215.53,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Éclairage,2024-09-01,2024,9,233.03,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Éclairage,2024-10-01,2024,10,260.7,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Éclairage,2024-11-01,2024,11,261.36,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Éclairage,2024-12-01,2024,12,292.3,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Éclairage,2025-01-01,2025,1,305.4,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Éclairage,2025-02-01,2025,2,279.26,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Éclairage,2025-03-01,2025,3,279.7,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Éclairage,2025-04-01,2025,4,225.83,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Prises de courant,2024-04-01,2024,4,300.97,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Prises de courant,2024-05-01,2024,5,357.87,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Prises de courant,2024-06-01,2024,6,334.41,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Prises de courant,2024-07-01,2024,7,275.55,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Prises de courant,2024-08-01,2024,8,284.48,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Prises de courant,2024-09-01,2024,9,300.67,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Prises de courant,2024-10-01,2024,10,325.64,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Prises de courant,2024-11-01,2024,11,325.18,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Prises de courant,2024-12-01,2024,12,356.51,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Prises de courant,2025-01-01,2025,1,322.29,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Prises de courant,2025-02-01,2025,2,315.37,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Prises de courant,2025-03-01,2025,3,313.72,156.25
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,Prises de courant,2025-04-01,2025,4,351.06,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Chauffage,2024-04-01,2024,4,489.09,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Chauffage,2024-05-01,2024,5,251.82,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Chauffage,2024-06-01,2024,6,0.0,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Chauffage,2024-07-01,2024,7,0.0,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Chauffage,2024-08-01,2024,8,0.0,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Chauffage,2024-09-01,2024,9,199.26,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Chauffage,2024-10-01,2024,10,480.88,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Chauffage,2024-11-01,2024,11,654.19,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Chauffage,2024-12-01,2024,12,801.85,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Chauffage,2025-01-01,2025,1,924.24,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Chauffage,2025-02-01,2025,2,956.1,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Chauffage,2025-03-01,2025,3,810.77,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Chauffage,2025-04-01,2025,4,510.11,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Refroidissement,2024-04-01,2024,4,57.64,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Refroidissement,2024-05-01,2024,5,187.15,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Refroidissement,2024-06-01,2024,6,383.14,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Refroidissement,2024-07-01,2024,7,456.6,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Refroidissement,2024-08-01,2024,8,464.52,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Refroidissement,2024-09-01,2024,9,225.22,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Refroidissement,2024-10-01,2024,10,91.2,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Refroidissement,2024-11-01,2024,11,0.0,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Refroidissement,2024-12-01,2024,12,0.0,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Refroidissement,2025-01-01,2025,1,0.0,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Refroidissement,2025-02-01,2025,2,0.0,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Refroidissement,2025-03-01,2025,3,0.0,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Refroidissement,2025-04-01,2025,4,67.69,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Ventilation,2024-04-01,2024,4,187.45,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Ventilation,2024-05-01,2024,5,231.84,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Ventilation,2024-06-01,2024,6,211.72,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Ventilation,2024-07-01,2024,7,232.61,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Ventilation,2024-08-01,2024,8,248.85,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Ventilation,2024-09-01,2024,9,224.15,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Ventilation,2024-10-01,2024,10,175.83,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Ventilation,2024-11-01,2024,11,190.8,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Ventilation,2024-12-01,2024,12,150.63,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Ventilation,2025-01-01,2025,1,150.54,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Ventilation,2025-02-01,2025,2,162.92,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Ventilation,2025-03-01,2025,3,180.02,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Ventilation,2025-04-01,2025,4,200.14,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Éclairage,2024-04-01,2024,4,260.59,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Éclairage,2024-05-01,2024,5,240.23,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Éclairage,2024-06-01,2024,6,211.71,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Éclairage,2024-07-01,2024,7,195.01,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Éclairage,2024-08-01,2024,8,231.98,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Éclairage,2024-09-01,2024,9,267.99,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Éclairage,2024-10-01,2024,10,276.81,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Éclairage,2024-11-01,2024,11,313.92,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Éclairage,2024-12-01,2024,12,311.88,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Éclairage,2025-01-01,2025,1,376.67,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Éclairage,2025-02-01,2025,2,335.03,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Éclairage,2025-03-01,2025,3,276.28,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Éclairage,2025-04-01,2025,4,273.97,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Prises de courant,2024-04-01,2024,4,327.85,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Prises de courant,2024-05-01,2024,5,330.82,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Prises de courant,2024-06-01,2024,6,334.98,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Prises de courant,2024-07-01,2024,7,284.08,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Prises de courant,2024-08-01,2024,8,266.01,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Prises de courant,2024-09-01,2024,9,298.28,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Prises de courant,2024-10-01,2024,10,310.34,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Prises de courant,2024-11-01,2024,11,307.71,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Prises de courant,2024-12-01,2024,12,299.09,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Prises de courant,2025-01-01,2025,1,357.73,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Prises de courant,2025-02-01,2025,2,308.3,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Prises de courant,2025-03-01,2025,3,353.58,156.25
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,Prises de courant,2025-04-01,2025,4,342.86,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Chauffage,2024-04-01,2024,4,342.57,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Chauffage,2024-05-01,2024,5,151.17,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Chauffage,2024-06-01,2024,6,0.0,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Chauffage,2024-07-01,2024,7,0.0,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Chauffage,2024-08-01,2024,8,0.0,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Chauffage,2024-09-01,2024,9,117.29,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Chauffage,2024-10-01,2024,10,296.75,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Chauffage,2024-11-01,2024,11,423.77,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Chauffage,2024-12-01,2024,12,585.12,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Chauffage,2025-01-01,2025,1,675.53,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Chauffage,2025-02-01,2025,2,568.53,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Chauffage,2025-03-01,2025,3,501.72,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Chauffage,2025-04-01,2025,4,324.65,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Refroidissement,2024-04-01,2024,4,86.29,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Refroidissement,2024-05-01,2024,5,301.26,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Refroidissement,2024-06-01,2024,6,567.51,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Refroidissement,2024-07-01,2024,7,709.41,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Refroidissement,2024-08-01,2024,8,657.1,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Refroidissement,2024-09-01,2024,9,393.92,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Refroidissement,2024-10-01,2024,10,138.69,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Refroidissement,2024-11-01,2024,11,0.0,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Refroidissement,2024-12-01,2024,12,0.0,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Refroidissement,2025-01-01,2025,1,0.0,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Refroidissement,2025-02-01,2025,2,0.0,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Refroidissement,2025-03-01,2025,3,0.0,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Refroidissement,2025-04-01,2025,4,85.23,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Ventilation,2024-04-01,2024,4,186.36,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Ventilation,2024-05-01,2024,5,194.28,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Ventilation,2024-06-01,2024,6,227.18,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Ventilation,2024-07-01,2024,7,228.53,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Ventilation,2024-08-01,2024,8,214.66,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Ventilation,2024-09-01,2024,9,200.62,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Ventilation,2024-10-01,2024,10,185.23,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Ventilation,2024-11-01,2024,11,186.91,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Ventilation,2024-12-01,2024,12,168.82,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Ventilation,2025-01-01,2025,1,162.6,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Ventilation,2025-02-01,2025,2,154.57,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Ventilation,2025-03-01,2025,3,169.31,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Ventilation,2025-04-01,2025,4,201.38,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Éclairage,2024-04-01,2024,4,214.18,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Éclairage,2024-05-01,2024,5,174.89,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Éclairage,2024-06-01,2024,6,151.55,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Éclairage,2024-07-01,2024,7,178.61,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Éclairage,2024-08-01,2024,8,200.0,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Éclairage,2024-09-01,2024,9,192.7,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Éclairage,2024-10-01,2024,10,218.11,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Éclairage,2024-11-01,2024,11,244.91,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Éclairage,2024-12-01,2024,12,261.75,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Éclairage,2025-01-01,2025,1,284.71,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Éclairage,2025-02-01,2025,2,257.09,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Éclairage,2025-03-01,2025,3,224.82,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Éclairage,2025-04-01,2025,4,226.55,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Prises de courant,2024-04-01,2024,4,304.86,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Prises de courant,2024-05-01,2024,5,355.25,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Prises de courant,2024-06-01,2024,6,324.49,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Prises de courant,2024-07-01,2024,7,257.76,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Prises de courant,2024-08-01,2024,8,241.96,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Prises de courant,2024-09-01,2024,9,322.6,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Prises de courant,2024-10-01,2024,10,307.38,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Prises de courant,2024-11-01,2024,11,316.04,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Prises de courant,2024-12-01,2024,12,312.79,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Prises de courant,2025-01-01,2025,1,323.45,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Prises de courant,2025-02-01,2025,2,329.4,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Prises de courant,2025-03-01,2025,3,312.05,156.25
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,Prises de courant,2025-04-01,2025,4,312.91,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Chauffage,2024-04-01,2024,4,387.21,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Chauffage,2024-05-01,2024,5,193.87,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Chauffage,2024-06-01,2024,6,0.0,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Chauffage,2024-07-01,2024,7,0.0,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Chauffage,2024-08-01,2024,8,0.0,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Chauffage,2024-09-01,2024,9,155.4,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Chauffage,2024-10-01,2024,10,366.71,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Chauffage,2024-11-01,2024,11,607.15,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Chauffage,2024-12-01,2024,12,759.49,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Chauffage,2025-01-01,2025,1,768.68,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Chauffage,2025-02-01,2025,2,743.36,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Chauffage,2025-03-01,2025,3,659.13,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Chauffage,2025-04-01,2025,4,452.5,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Refroidissement,2024-04-01,2024,4,78.56,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Refroidissement,2024-05-01,2024,5,250.64,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Refroidissement,2024-06-01,2024,6,535.09,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Refroidissement,2024-07-01,2024,7,641.35,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Refroidissement,2024-08-01,2024,8,545.2,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Refroidissement,2024-09-01,2024,9,350.07,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Refroidissement,2024-10-01,2024,10,131.2,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Refroidissement,2024-11-01,2024,11,0.0,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Refroidissement,2024-12-01,2024,12,0.0,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Refroidissement,2025-01-01,2025,1,0.0,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Refroidissement,2025-02-01,2025,2,0.0,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Refroidissement,2025-03-01,2025,3,0.0,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Refroidissement,2025-04-01,2025,4,81.74,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Ventilation,2024-04-01,2024,4,197.7,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Ventilation,2024-05-01,2024,5,194.82,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Ventilation,2024-06-01,2024,6,235.84,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Ventilation,2024-07-01,2024,7,254.62,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Ventilation,2024-08-01,2024,8,216.05,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Ventilation,2024-09-01,2024,9,198.66,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Ventilation,2024-10-01,2024,10,193.87,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Ventilation,2024-11-01,2024,11,179.08,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Ventilation,2024-12-01,2024,12,160.15,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Ventilation,2025-01-01,2025,1,152.95,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Ventilation,2025-02-01,2025,2,151.55,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Ventilation,2025-03-01,2025,3,185.09,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Ventilation,2025-04-01,2025,4,188.44,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Éclairage,2024-04-01,2024,4,215.9,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Éclairage,2024-05-01,2024,5,190.6,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Éclairage,2024-06-01,2024,6,185.04,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Éclairage,2024-07-01,2024,7,164.38,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Éclairage,2024-08-01,2024,8,197.12,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Éclairage,2024-09-01,2024,9,221.09,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Éclairage,2024-10-01,2024,10,257.98,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Éclairage,2024-11-01,2024,11,300.01,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Éclairage,2024-12-01,2024,12,338.05,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Éclairage,2025-01-01,2025,1,284.17,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Éclairage,2025-02-01,2025,2,272.75,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Éclairage,2025-03-01,2025,3,259.12,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Éclairage,2025-04-01,2025,4,239.71,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Prises de courant,2024-04-01,2024,4,352.23,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Prises de courant,2024-05-01,2024,5,298.21,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Prises de courant,2024-06-01,2024,6,341.03,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Prises de courant,2024-07-01,2024,7,277.63,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Prises de courant,2024-08-01,2024,8,283.34,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Prises de courant,2024-09-01,2024,9,295.23,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Prises de courant,2024-10-01,2024,10,332.99,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Prises de courant,2024-11-01,2024,11,328.8,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Prises de courant,2024-12-01,2024,12,297.42,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Prises de courant,2025-01-01,2025,1,357.99,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Prises de courant,2025-02-01,2025,2,310.88,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Prises de courant,2025-03-01,2025,3,304.95,156.25
+zone_11,Zone Est - Étage 2,Étage 2,Est,Prises de courant,2025-04-01,2025,4,355.37,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Chauffage,2024-04-01,2024,4,456.2,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Chauffage,2024-05-01,2024,5,226.6,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Chauffage,2024-06-01,2024,6,0.0,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Chauffage,2024-07-01,2024,7,0.0,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Chauffage,2024-08-01,2024,8,0.0,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Chauffage,2024-09-01,2024,9,154.16,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Chauffage,2024-10-01,2024,10,345.33,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Chauffage,2024-11-01,2024,11,578.95,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Chauffage,2024-12-01,2024,12,659.02,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Chauffage,2025-01-01,2025,1,820.82,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Chauffage,2025-02-01,2025,2,741.57,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Chauffage,2025-03-01,2025,3,674.84,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Chauffage,2025-04-01,2025,4,412.71,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Refroidissement,2024-04-01,2024,4,94.29,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Refroidissement,2024-05-01,2024,5,268.05,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Refroidissement,2024-06-01,2024,6,527.0,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Refroidissement,2024-07-01,2024,7,645.8,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Refroidissement,2024-08-01,2024,8,543.08,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Refroidissement,2024-09-01,2024,9,317.33,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Refroidissement,2024-10-01,2024,10,116.53,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Refroidissement,2024-11-01,2024,11,0.0,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Refroidissement,2024-12-01,2024,12,0.0,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Refroidissement,2025-01-01,2025,1,0.0,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Refroidissement,2025-02-01,2025,2,0.0,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Refroidissement,2025-03-01,2025,3,0.0,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Refroidissement,2025-04-01,2025,4,82.63,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Ventilation,2024-04-01,2024,4,207.58,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Ventilation,2024-05-01,2024,5,220.1,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Ventilation,2024-06-01,2024,6,215.31,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Ventilation,2024-07-01,2024,7,240.05,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Ventilation,2024-08-01,2024,8,247.89,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Ventilation,2024-09-01,2024,9,211.16,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Ventilation,2024-10-01,2024,10,186.43,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Ventilation,2024-11-01,2024,11,191.62,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Ventilation,2024-12-01,2024,12,151.89,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Ventilation,2025-01-01,2025,1,164.28,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Ventilation,2025-02-01,2025,2,166.51,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Ventilation,2025-03-01,2025,3,190.14,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Ventilation,2025-04-01,2025,4,204.35,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Éclairage,2024-04-01,2024,4,254.47,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Éclairage,2024-05-01,2024,5,195.74,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Éclairage,2024-06-01,2024,6,187.75,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Éclairage,2024-07-01,2024,7,176.56,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Éclairage,2024-08-01,2024,8,210.74,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Éclairage,2024-09-01,2024,9,217.7,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Éclairage,2024-10-01,2024,10,239.81,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Éclairage,2024-11-01,2024,11,262.97,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Éclairage,2024-12-01,2024,12,281.57,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Éclairage,2025-01-01,2025,1,323.87,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Éclairage,2025-02-01,2025,2,304.73,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Éclairage,2025-03-01,2025,3,247.44,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Éclairage,2025-04-01,2025,4,217.12,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Prises de courant,2024-04-01,2024,4,334.58,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Prises de courant,2024-05-01,2024,5,342.34,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Prises de courant,2024-06-01,2024,6,351.89,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Prises de courant,2024-07-01,2024,7,270.93,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Prises de courant,2024-08-01,2024,8,277.53,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Prises de courant,2024-09-01,2024,9,353.04,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Prises de courant,2024-10-01,2024,10,307.57,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Prises de courant,2024-11-01,2024,11,313.44,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Prises de courant,2024-12-01,2024,12,319.16,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Prises de courant,2025-01-01,2025,1,350.33,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Prises de courant,2025-02-01,2025,2,349.88,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Prises de courant,2025-03-01,2025,3,352.03,156.25
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,Prises de courant,2025-04-01,2025,4,347.04,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Chauffage,2024-04-01,2024,4,418.65,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Chauffage,2024-05-01,2024,5,208.99,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Chauffage,2024-06-01,2024,6,0.0,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Chauffage,2024-07-01,2024,7,0.0,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Chauffage,2024-08-01,2024,8,0.0,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Chauffage,2024-09-01,2024,9,155.14,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Chauffage,2024-10-01,2024,10,413.06,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Chauffage,2024-11-01,2024,11,603.94,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Chauffage,2024-12-01,2024,12,740.86,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Chauffage,2025-01-01,2025,1,898.21,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Chauffage,2025-02-01,2025,2,812.27,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Chauffage,2025-03-01,2025,3,686.25,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Chauffage,2025-04-01,2025,4,440.47,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Refroidissement,2024-04-01,2024,4,69.0,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Refroidissement,2024-05-01,2024,5,203.65,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Refroidissement,2024-06-01,2024,6,406.76,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Refroidissement,2024-07-01,2024,7,531.72,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Refroidissement,2024-08-01,2024,8,451.68,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Refroidissement,2024-09-01,2024,9,252.46,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Refroidissement,2024-10-01,2024,10,103.78,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Refroidissement,2024-11-01,2024,11,0.0,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Refroidissement,2024-12-01,2024,12,0.0,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Refroidissement,2025-01-01,2025,1,0.0,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Refroidissement,2025-02-01,2025,2,0.0,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Refroidissement,2025-03-01,2025,3,0.0,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Refroidissement,2025-04-01,2025,4,65.91,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Ventilation,2024-04-01,2024,4,209.8,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Ventilation,2024-05-01,2024,5,224.86,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Ventilation,2024-06-01,2024,6,233.99,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Ventilation,2024-07-01,2024,7,235.77,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Ventilation,2024-08-01,2024,8,243.56,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Ventilation,2024-09-01,2024,9,233.2,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Ventilation,2024-10-01,2024,10,184.21,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Ventilation,2024-11-01,2024,11,183.32,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Ventilation,2024-12-01,2024,12,161.67,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Ventilation,2025-01-01,2025,1,154.8,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Ventilation,2025-02-01,2025,2,147.88,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Ventilation,2025-03-01,2025,3,164.44,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Ventilation,2025-04-01,2025,4,202.79,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Éclairage,2024-04-01,2024,4,232.85,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Éclairage,2024-05-01,2024,5,215.89,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Éclairage,2024-06-01,2024,6,188.07,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Éclairage,2024-07-01,2024,7,182.34,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Éclairage,2024-08-01,2024,8,243.73,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Éclairage,2024-09-01,2024,9,248.96,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Éclairage,2024-10-01,2024,10,276.26,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Éclairage,2024-11-01,2024,11,315.36,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Éclairage,2024-12-01,2024,12,374.46,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Éclairage,2025-01-01,2025,1,311.03,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Éclairage,2025-02-01,2025,2,328.98,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Éclairage,2025-03-01,2025,3,304.96,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Éclairage,2025-04-01,2025,4,265.21,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Prises de courant,2024-04-01,2024,4,298.21,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Prises de courant,2024-05-01,2024,5,307.09,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Prises de courant,2024-06-01,2024,6,290.83,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Prises de courant,2024-07-01,2024,7,257.38,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Prises de courant,2024-08-01,2024,8,218.18,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Prises de courant,2024-09-01,2024,9,268.94,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Prises de courant,2024-10-01,2024,10,305.74,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Prises de courant,2024-11-01,2024,11,264.14,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Prises de courant,2024-12-01,2024,12,287.44,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Prises de courant,2025-01-01,2025,1,294.79,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Prises de courant,2025-02-01,2025,2,315.61,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Prises de courant,2025-03-01,2025,3,305.09,156.25
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,Prises de courant,2025-04-01,2025,4,319.91,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Chauffage,2024-04-01,2024,4,309.25,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Chauffage,2024-05-01,2024,5,148.96,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Chauffage,2024-06-01,2024,6,0.0,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Chauffage,2024-07-01,2024,7,0.0,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Chauffage,2024-08-01,2024,8,0.0,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Chauffage,2024-09-01,2024,9,117.2,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Chauffage,2024-10-01,2024,10,246.17,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Chauffage,2024-11-01,2024,11,389.03,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Chauffage,2024-12-01,2024,12,522.22,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Chauffage,2025-01-01,2025,1,516.55,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Chauffage,2025-02-01,2025,2,478.51,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Chauffage,2025-03-01,2025,3,449.82,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Chauffage,2025-04-01,2025,4,295.26,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Refroidissement,2024-04-01,2024,4,106.54,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Refroidissement,2024-05-01,2024,5,316.52,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Refroidissement,2024-06-01,2024,6,598.91,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Refroidissement,2024-07-01,2024,7,725.49,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Refroidissement,2024-08-01,2024,8,774.48,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Refroidissement,2024-09-01,2024,9,445.11,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Refroidissement,2024-10-01,2024,10,150.49,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Refroidissement,2024-11-01,2024,11,0.0,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Refroidissement,2024-12-01,2024,12,0.0,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Refroidissement,2025-01-01,2025,1,0.0,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Refroidissement,2025-02-01,2025,2,0.0,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Refroidissement,2025-03-01,2025,3,0.0,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Refroidissement,2025-04-01,2025,4,113.04,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Ventilation,2024-04-01,2024,4,196.11,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Ventilation,2024-05-01,2024,5,234.1,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Ventilation,2024-06-01,2024,6,212.57,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Ventilation,2024-07-01,2024,7,244.79,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Ventilation,2024-08-01,2024,8,223.85,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Ventilation,2024-09-01,2024,9,228.02,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Ventilation,2024-10-01,2024,10,191.21,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Ventilation,2024-11-01,2024,11,187.91,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Ventilation,2024-12-01,2024,12,154.65,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Ventilation,2025-01-01,2025,1,157.03,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Ventilation,2025-02-01,2025,2,161.87,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Ventilation,2025-03-01,2025,3,186.86,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Ventilation,2025-04-01,2025,4,185.87,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Éclairage,2024-04-01,2024,4,228.6,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Éclairage,2024-05-01,2024,5,188.25,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Éclairage,2024-06-01,2024,6,159.53,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Éclairage,2024-07-01,2024,7,176.45,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Éclairage,2024-08-01,2024,8,172.51,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Éclairage,2024-09-01,2024,9,216.61,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Éclairage,2024-10-01,2024,10,243.95,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Éclairage,2024-11-01,2024,11,247.61,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Éclairage,2024-12-01,2024,12,302.57,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Éclairage,2025-01-01,2025,1,281.67,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Éclairage,2025-02-01,2025,2,245.21,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Éclairage,2025-03-01,2025,3,218.14,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Éclairage,2025-04-01,2025,4,206.0,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Prises de courant,2024-04-01,2024,4,291.29,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Prises de courant,2024-05-01,2024,5,308.43,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Prises de courant,2024-06-01,2024,6,302.04,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Prises de courant,2024-07-01,2024,7,220.07,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Prises de courant,2024-08-01,2024,8,252.46,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Prises de courant,2024-09-01,2024,9,292.2,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Prises de courant,2024-10-01,2024,10,300.06,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Prises de courant,2024-11-01,2024,11,281.07,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Prises de courant,2024-12-01,2024,12,276.7,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Prises de courant,2025-01-01,2025,1,315.92,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Prises de courant,2025-02-01,2025,2,314.16,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Prises de courant,2025-03-01,2025,3,301.3,156.25
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,Prises de courant,2025-04-01,2025,4,286.24,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Chauffage,2024-04-01,2024,4,408.17,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Chauffage,2024-05-01,2024,5,195.67,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Chauffage,2024-06-01,2024,6,0.0,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Chauffage,2024-07-01,2024,7,0.0,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Chauffage,2024-08-01,2024,8,0.0,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Chauffage,2024-09-01,2024,9,144.12,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Chauffage,2024-10-01,2024,10,326.01,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Chauffage,2024-11-01,2024,11,478.91,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Chauffage,2024-12-01,2024,12,645.31,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Chauffage,2025-01-01,2025,1,718.39,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Chauffage,2025-02-01,2025,2,697.97,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Chauffage,2025-03-01,2025,3,512.65,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Chauffage,2025-04-01,2025,4,409.57,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Refroidissement,2024-04-01,2024,4,98.08,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Refroidissement,2024-05-01,2024,5,289.95,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Refroidissement,2024-06-01,2024,6,618.72,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Refroidissement,2024-07-01,2024,7,684.81,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Refroidissement,2024-08-01,2024,8,723.71,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Refroidissement,2024-09-01,2024,9,342.39,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Refroidissement,2024-10-01,2024,10,139.89,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Refroidissement,2024-11-01,2024,11,0.0,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Refroidissement,2024-12-01,2024,12,0.0,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Refroidissement,2025-01-01,2025,1,0.0,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Refroidissement,2025-02-01,2025,2,0.0,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Refroidissement,2025-03-01,2025,3,0.0,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Refroidissement,2025-04-01,2025,4,95.45,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Ventilation,2024-04-01,2024,4,190.33,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Ventilation,2024-05-01,2024,5,198.57,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Ventilation,2024-06-01,2024,6,256.73,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Ventilation,2024-07-01,2024,7,223.38,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Ventilation,2024-08-01,2024,8,240.5,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Ventilation,2024-09-01,2024,9,235.22,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Ventilation,2024-10-01,2024,10,181.34,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Ventilation,2024-11-01,2024,11,168.71,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Ventilation,2024-12-01,2024,12,168.64,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Ventilation,2025-01-01,2025,1,156.26,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Ventilation,2025-02-01,2025,2,155.77,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Ventilation,2025-03-01,2025,3,192.75,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Ventilation,2025-04-01,2025,4,186.64,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Éclairage,2024-04-01,2024,4,225.15,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Éclairage,2024-05-01,2024,5,208.08,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Éclairage,2024-06-01,2024,6,174.55,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Éclairage,2024-07-01,2024,7,175.92,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Éclairage,2024-08-01,2024,8,209.96,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Éclairage,2024-09-01,2024,9,257.29,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Éclairage,2024-10-01,2024,10,259.82,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Éclairage,2024-11-01,2024,11,300.45,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Éclairage,2024-12-01,2024,12,291.96,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Éclairage,2025-01-01,2025,1,317.58,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Éclairage,2025-02-01,2025,2,314.33,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Éclairage,2025-03-01,2025,3,284.3,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Éclairage,2025-04-01,2025,4,211.16,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Prises de courant,2024-04-01,2024,4,307.17,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Prises de courant,2024-05-01,2024,5,281.7,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Prises de courant,2024-06-01,2024,6,279.78,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Prises de courant,2024-07-01,2024,7,217.02,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Prises de courant,2024-08-01,2024,8,245.26,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Prises de courant,2024-09-01,2024,9,281.55,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Prises de courant,2024-10-01,2024,10,317.54,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Prises de courant,2024-11-01,2024,11,291.25,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Prises de courant,2024-12-01,2024,12,284.86,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Prises de courant,2025-01-01,2025,1,266.44,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Prises de courant,2025-02-01,2025,2,265.53,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Prises de courant,2025-03-01,2025,3,265.76,156.25
+zone_15,Zone Est - Étage 3,Étage 3,Est,Prises de courant,2025-04-01,2025,4,281.55,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Chauffage,2024-04-01,2024,4,344.97,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Chauffage,2024-05-01,2024,5,179.73,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Chauffage,2024-06-01,2024,6,0.0,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Chauffage,2024-07-01,2024,7,0.0,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Chauffage,2024-08-01,2024,8,0.0,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Chauffage,2024-09-01,2024,9,134.72,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Chauffage,2024-10-01,2024,10,304.81,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Chauffage,2024-11-01,2024,11,496.82,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Chauffage,2024-12-01,2024,12,714.64,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Chauffage,2025-01-01,2025,1,646.78,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Chauffage,2025-02-01,2025,2,706.86,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Chauffage,2025-03-01,2025,3,595.02,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Chauffage,2025-04-01,2025,4,348.46,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Refroidissement,2024-04-01,2024,4,97.79,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Refroidissement,2024-05-01,2024,5,300.43,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Refroidissement,2024-06-01,2024,6,540.34,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Refroidissement,2024-07-01,2024,7,766.41,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Refroidissement,2024-08-01,2024,8,712.1,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Refroidissement,2024-09-01,2024,9,385.37,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Refroidissement,2024-10-01,2024,10,135.05,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Refroidissement,2024-11-01,2024,11,0.0,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Refroidissement,2024-12-01,2024,12,0.0,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Refroidissement,2025-01-01,2025,1,0.0,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Refroidissement,2025-02-01,2025,2,0.0,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Refroidissement,2025-03-01,2025,3,0.0,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Refroidissement,2025-04-01,2025,4,88.5,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Ventilation,2024-04-01,2024,4,206.28,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Ventilation,2024-05-01,2024,5,206.63,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Ventilation,2024-06-01,2024,6,212.62,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Ventilation,2024-07-01,2024,7,220.18,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Ventilation,2024-08-01,2024,8,214.9,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Ventilation,2024-09-01,2024,9,220.91,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Ventilation,2024-10-01,2024,10,202.78,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Ventilation,2024-11-01,2024,11,176.89,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Ventilation,2024-12-01,2024,12,148.59,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Ventilation,2025-01-01,2025,1,162.71,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Ventilation,2025-02-01,2025,2,144.5,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Ventilation,2025-03-01,2025,3,173.28,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Ventilation,2025-04-01,2025,4,194.88,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Éclairage,2024-04-01,2024,4,227.22,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Éclairage,2024-05-01,2024,5,210.22,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Éclairage,2024-06-01,2024,6,164.12,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Éclairage,2024-07-01,2024,7,187.15,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Éclairage,2024-08-01,2024,8,211.48,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Éclairage,2024-09-01,2024,9,251.74,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Éclairage,2024-10-01,2024,10,246.66,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Éclairage,2024-11-01,2024,11,258.67,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Éclairage,2024-12-01,2024,12,315.78,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Éclairage,2025-01-01,2025,1,296.44,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Éclairage,2025-02-01,2025,2,292.36,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Éclairage,2025-03-01,2025,3,252.16,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Éclairage,2025-04-01,2025,4,239.35,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Prises de courant,2024-04-01,2024,4,276.26,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Prises de courant,2024-05-01,2024,5,268.13,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Prises de courant,2024-06-01,2024,6,294.35,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Prises de courant,2024-07-01,2024,7,216.56,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Prises de courant,2024-08-01,2024,8,245.17,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Prises de courant,2024-09-01,2024,9,311.15,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Prises de courant,2024-10-01,2024,10,312.15,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Prises de courant,2024-11-01,2024,11,321.88,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Prises de courant,2024-12-01,2024,12,310.66,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Prises de courant,2025-01-01,2025,1,290.59,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Prises de courant,2025-02-01,2025,2,264.08,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Prises de courant,2025-03-01,2025,3,311.94,156.25
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,Prises de courant,2025-04-01,2025,4,292.96,156.25

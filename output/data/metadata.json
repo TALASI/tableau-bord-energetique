@@ -1,0 +1,30 @@
+{
+    "date_generation": "2025-04-27 04:01:18",
+    "periode_mois": 12,
+    "nombre_zones": 16,
+    "surface_totale": 2500.0,
+    "surface_pv": 100,
+    "consommation_totale": 281019.29000000004,
+    "production_totale": 13112.35,
+    "temperature_moyenne": 22.814423076923074,
+    "co2_moyen": 561.6298076923077,
+    "usages": [
+        "Chauffage",
+        "Refroidissement",
+        "Ventilation",
+        "\u00c9clairage",
+        "Prises de courant"
+    ],
+    "niveaux": [
+        "RDC",
+        "\u00c9tage 1",
+        "\u00c9tage 2",
+        "\u00c9tage 3"
+    ],
+    "orientations": [
+        "Nord",
+        "Sud",
+        "Est",
+        "Ouest"
+    ]
+}

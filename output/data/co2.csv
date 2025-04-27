@@ -1,0 +1,209 @@
+zone_id,zone_nom,niveau,orientation,date,annee,mois,co2
+zone_1,Zone Nord - RDC,RDC,Nord,2024-04-01,2024,4,592
+zone_1,Zone Nord - RDC,RDC,Nord,2024-05-01,2024,5,629
+zone_1,Zone Nord - RDC,RDC,Nord,2024-06-01,2024,6,573
+zone_1,Zone Nord - RDC,RDC,Nord,2024-07-01,2024,7,484
+zone_1,Zone Nord - RDC,RDC,Nord,2024-08-01,2024,8,489
+zone_1,Zone Nord - RDC,RDC,Nord,2024-09-01,2024,9,614
+zone_1,Zone Nord - RDC,RDC,Nord,2024-10-01,2024,10,649
+zone_1,Zone Nord - RDC,RDC,Nord,2024-11-01,2024,11,608
+zone_1,Zone Nord - RDC,RDC,Nord,2024-12-01,2024,12,721
+zone_1,Zone Nord - RDC,RDC,Nord,2025-01-01,2025,1,689
+zone_1,Zone Nord - RDC,RDC,Nord,2025-02-01,2025,2,692
+zone_1,Zone Nord - RDC,RDC,Nord,2025-03-01,2025,3,639
+zone_1,Zone Nord - RDC,RDC,Nord,2025-04-01,2025,4,549
+zone_2,Zone Sud - RDC,RDC,Sud,2024-04-01,2024,4,555
+zone_2,Zone Sud - RDC,RDC,Sud,2024-05-01,2024,5,566
+zone_2,Zone Sud - RDC,RDC,Sud,2024-06-01,2024,6,538
+zone_2,Zone Sud - RDC,RDC,Sud,2024-07-01,2024,7,569
+zone_2,Zone Sud - RDC,RDC,Sud,2024-08-01,2024,8,506
+zone_2,Zone Sud - RDC,RDC,Sud,2024-09-01,2024,9,653
+zone_2,Zone Sud - RDC,RDC,Sud,2024-10-01,2024,10,641
+zone_2,Zone Sud - RDC,RDC,Sud,2024-11-01,2024,11,679
+zone_2,Zone Sud - RDC,RDC,Sud,2024-12-01,2024,12,732
+zone_2,Zone Sud - RDC,RDC,Sud,2025-01-01,2025,1,785
+zone_2,Zone Sud - RDC,RDC,Sud,2025-02-01,2025,2,700
+zone_2,Zone Sud - RDC,RDC,Sud,2025-03-01,2025,3,707
+zone_2,Zone Sud - RDC,RDC,Sud,2025-04-01,2025,4,560
+zone_3,Zone Est - RDC,RDC,Est,2024-04-01,2024,4,584
+zone_3,Zone Est - RDC,RDC,Est,2024-05-01,2024,5,618
+zone_3,Zone Est - RDC,RDC,Est,2024-06-01,2024,6,548
+zone_3,Zone Est - RDC,RDC,Est,2024-07-01,2024,7,505
+zone_3,Zone Est - RDC,RDC,Est,2024-08-01,2024,8,515
+zone_3,Zone Est - RDC,RDC,Est,2024-09-01,2024,9,541
+zone_3,Zone Est - RDC,RDC,Est,2024-10-01,2024,10,687
+zone_3,Zone Est - RDC,RDC,Est,2024-11-01,2024,11,621
+zone_3,Zone Est - RDC,RDC,Est,2024-12-01,2024,12,655
+zone_3,Zone Est - RDC,RDC,Est,2025-01-01,2025,1,663
+zone_3,Zone Est - RDC,RDC,Est,2025-02-01,2025,2,663
+zone_3,Zone Est - RDC,RDC,Est,2025-03-01,2025,3,605
+zone_3,Zone Est - RDC,RDC,Est,2025-04-01,2025,4,611
+zone_4,Zone Ouest - RDC,RDC,Ouest,2024-04-01,2024,4,588
+zone_4,Zone Ouest - RDC,RDC,Ouest,2024-05-01,2024,5,553
+zone_4,Zone Ouest - RDC,RDC,Ouest,2024-06-01,2024,6,506
+zone_4,Zone Ouest - RDC,RDC,Ouest,2024-07-01,2024,7,560
+zone_4,Zone Ouest - RDC,RDC,Ouest,2024-08-01,2024,8,477
+zone_4,Zone Ouest - RDC,RDC,Ouest,2024-09-01,2024,9,553
+zone_4,Zone Ouest - RDC,RDC,Ouest,2024-10-01,2024,10,723
+zone_4,Zone Ouest - RDC,RDC,Ouest,2024-11-01,2024,11,611
+zone_4,Zone Ouest - RDC,RDC,Ouest,2024-12-01,2024,12,660
+zone_4,Zone Ouest - RDC,RDC,Ouest,2025-01-01,2025,1,701
+zone_4,Zone Ouest - RDC,RDC,Ouest,2025-02-01,2025,2,782
+zone_4,Zone Ouest - RDC,RDC,Ouest,2025-03-01,2025,3,719
+zone_4,Zone Ouest - RDC,RDC,Ouest,2025-04-01,2025,4,636
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,2024-04-01,2024,4,495
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,2024-05-01,2024,5,566
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,2024-06-01,2024,6,497
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,2024-07-01,2024,7,497
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,2024-08-01,2024,8,478
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,2024-09-01,2024,9,567
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,2024-10-01,2024,10,606
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,2024-11-01,2024,11,593
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,2024-12-01,2024,12,612
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,2025-01-01,2025,1,707
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,2025-02-01,2025,2,681
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,2025-03-01,2025,3,637
+zone_5,Zone Nord - Étage 1,Étage 1,Nord,2025-04-01,2025,4,500
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,2024-04-01,2024,4,582
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,2024-05-01,2024,5,524
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,2024-06-01,2024,6,474
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,2024-07-01,2024,7,457
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,2024-08-01,2024,8,445
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,2024-09-01,2024,9,491
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,2024-10-01,2024,10,649
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,2024-11-01,2024,11,585
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,2024-12-01,2024,12,697
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,2025-01-01,2025,1,617
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,2025-02-01,2025,2,611
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,2025-03-01,2025,3,617
+zone_6,Zone Sud - Étage 1,Étage 1,Sud,2025-04-01,2025,4,515
+zone_7,Zone Est - Étage 1,Étage 1,Est,2024-04-01,2024,4,492
+zone_7,Zone Est - Étage 1,Étage 1,Est,2024-05-01,2024,5,537
+zone_7,Zone Est - Étage 1,Étage 1,Est,2024-06-01,2024,6,453
+zone_7,Zone Est - Étage 1,Étage 1,Est,2024-07-01,2024,7,516
+zone_7,Zone Est - Étage 1,Étage 1,Est,2024-08-01,2024,8,450
+zone_7,Zone Est - Étage 1,Étage 1,Est,2024-09-01,2024,9,592
+zone_7,Zone Est - Étage 1,Étage 1,Est,2024-10-01,2024,10,655
+zone_7,Zone Est - Étage 1,Étage 1,Est,2024-11-01,2024,11,541
+zone_7,Zone Est - Étage 1,Étage 1,Est,2024-12-01,2024,12,671
+zone_7,Zone Est - Étage 1,Étage 1,Est,2025-01-01,2025,1,687
+zone_7,Zone Est - Étage 1,Étage 1,Est,2025-02-01,2025,2,650
+zone_7,Zone Est - Étage 1,Étage 1,Est,2025-03-01,2025,3,599
+zone_7,Zone Est - Étage 1,Étage 1,Est,2025-04-01,2025,4,487
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,2024-04-01,2024,4,528
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,2024-05-01,2024,5,536
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,2024-06-01,2024,6,435
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,2024-07-01,2024,7,464
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,2024-08-01,2024,8,472
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,2024-09-01,2024,9,547
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,2024-10-01,2024,10,593
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,2024-11-01,2024,11,631
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,2024-12-01,2024,12,680
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,2025-01-01,2025,1,646
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,2025-02-01,2025,2,668
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,2025-03-01,2025,3,548
+zone_8,Zone Ouest - Étage 1,Étage 1,Ouest,2025-04-01,2025,4,548
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,2024-04-01,2024,4,553
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,2024-05-01,2024,5,517
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,2024-06-01,2024,6,450
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,2024-07-01,2024,7,459
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,2024-08-01,2024,8,432
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,2024-09-01,2024,9,575
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,2024-10-01,2024,10,594
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,2024-11-01,2024,11,553
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,2024-12-01,2024,12,604
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,2025-01-01,2025,1,596
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,2025-02-01,2025,2,649
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,2025-03-01,2025,3,570
+zone_9,Zone Nord - Étage 2,Étage 2,Nord,2025-04-01,2025,4,591
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,2024-04-01,2024,4,549
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,2024-05-01,2024,5,502
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,2024-06-01,2024,6,482
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,2024-07-01,2024,7,434
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,2024-08-01,2024,8,460
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,2024-09-01,2024,9,520
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,2024-10-01,2024,10,567
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,2024-11-01,2024,11,585
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,2024-12-01,2024,12,698
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,2025-01-01,2025,1,609
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,2025-02-01,2025,2,598
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,2025-03-01,2025,3,637
+zone_10,Zone Sud - Étage 2,Étage 2,Sud,2025-04-01,2025,4,500
+zone_11,Zone Est - Étage 2,Étage 2,Est,2024-04-01,2024,4,519
+zone_11,Zone Est - Étage 2,Étage 2,Est,2024-05-01,2024,5,492
+zone_11,Zone Est - Étage 2,Étage 2,Est,2024-06-01,2024,6,486
+zone_11,Zone Est - Étage 2,Étage 2,Est,2024-07-01,2024,7,497
+zone_11,Zone Est - Étage 2,Étage 2,Est,2024-08-01,2024,8,513
+zone_11,Zone Est - Étage 2,Étage 2,Est,2024-09-01,2024,9,559
+zone_11,Zone Est - Étage 2,Étage 2,Est,2024-10-01,2024,10,600
+zone_11,Zone Est - Étage 2,Étage 2,Est,2024-11-01,2024,11,604
+zone_11,Zone Est - Étage 2,Étage 2,Est,2024-12-01,2024,12,613
+zone_11,Zone Est - Étage 2,Étage 2,Est,2025-01-01,2025,1,723
+zone_11,Zone Est - Étage 2,Étage 2,Est,2025-02-01,2025,2,614
+zone_11,Zone Est - Étage 2,Étage 2,Est,2025-03-01,2025,3,660
+zone_11,Zone Est - Étage 2,Étage 2,Est,2025-04-01,2025,4,507
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,2024-04-01,2024,4,579
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,2024-05-01,2024,5,519
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,2024-06-01,2024,6,477
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,2024-07-01,2024,7,506
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,2024-08-01,2024,8,506
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,2024-09-01,2024,9,576
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,2024-10-01,2024,10,559
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,2024-11-01,2024,11,651
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,2024-12-01,2024,12,715
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,2025-01-01,2025,1,663
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,2025-02-01,2025,2,644
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,2025-03-01,2025,3,635
+zone_12,Zone Ouest - Étage 2,Étage 2,Ouest,2025-04-01,2025,4,549
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,2024-04-01,2024,4,487
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,2024-05-01,2024,5,528
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,2024-06-01,2024,6,442
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,2024-07-01,2024,7,409
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,2024-08-01,2024,8,399
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,2024-09-01,2024,9,488
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,2024-10-01,2024,10,502
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,2024-11-01,2024,11,521
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,2024-12-01,2024,12,621
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,2025-01-01,2025,1,613
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,2025-02-01,2025,2,606
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,2025-03-01,2025,3,584
+zone_13,Zone Nord - Étage 3,Étage 3,Nord,2025-04-01,2025,4,492
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,2024-04-01,2024,4,438
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,2024-05-01,2024,5,442
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,2024-06-01,2024,6,457
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,2024-07-01,2024,7,417
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,2024-08-01,2024,8,404
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,2024-09-01,2024,9,456
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,2024-10-01,2024,10,497
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,2024-11-01,2024,11,557
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,2024-12-01,2024,12,538
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,2025-01-01,2025,1,630
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,2025-02-01,2025,2,603
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,2025-03-01,2025,3,537
+zone_14,Zone Sud - Étage 3,Étage 3,Sud,2025-04-01,2025,4,498
+zone_15,Zone Est - Étage 3,Étage 3,Est,2024-04-01,2024,4,448
+zone_15,Zone Est - Étage 3,Étage 3,Est,2024-05-01,2024,5,441
+zone_15,Zone Est - Étage 3,Étage 3,Est,2024-06-01,2024,6,389
+zone_15,Zone Est - Étage 3,Étage 3,Est,2024-07-01,2024,7,471
+zone_15,Zone Est - Étage 3,Étage 3,Est,2024-08-01,2024,8,474
+zone_15,Zone Est - Étage 3,Étage 3,Est,2024-09-01,2024,9,489
+zone_15,Zone Est - Étage 3,Étage 3,Est,2024-10-01,2024,10,503
+zone_15,Zone Est - Étage 3,Étage 3,Est,2024-11-01,2024,11,590
+zone_15,Zone Est - Étage 3,Étage 3,Est,2024-12-01,2024,12,580
+zone_15,Zone Est - Étage 3,Étage 3,Est,2025-01-01,2025,1,588
+zone_15,Zone Est - Étage 3,Étage 3,Est,2025-02-01,2025,2,643
+zone_15,Zone Est - Étage 3,Étage 3,Est,2025-03-01,2025,3,515
+zone_15,Zone Est - Étage 3,Étage 3,Est,2025-04-01,2025,4,444
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,2024-04-01,2024,4,492
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,2024-05-01,2024,5,457
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,2024-06-01,2024,6,408
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,2024-07-01,2024,7,467
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,2024-08-01,2024,8,433
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,2024-09-01,2024,9,454
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,2024-10-01,2024,10,494
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,2024-11-01,2024,11,572
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,2024-12-01,2024,12,569
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,2025-01-01,2025,1,557
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,2025-02-01,2025,2,569
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,2025-03-01,2025,3,576
+zone_16,Zone Ouest - Étage 3,Étage 3,Ouest,2025-04-01,2025,4,450

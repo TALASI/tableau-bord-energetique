@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_05cceeedc2f6c13b658a32f955edbc08 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+    <script src="https://cdn.jsdelivr.net/gh/python-visualization/folium@main/folium/templates/leaflet_heat.min.js"></script>
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_05cceeedc2f6c13b658a32f955edbc08" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_05cceeedc2f6c13b658a32f955edbc08 = L.map(
+                "map_05cceeedc2f6c13b658a32f955edbc08",
+                {
+                    center: [48.856614, 2.3522219],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 18,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_10fa1d20511580b5e836b43251005f77 = L.tileLayer(
+                "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 20,
+  "maxNativeZoom": 20,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"https://carto.com/attributions\"\u003eCARTO\u003c/a\u003e",
+  "subdomains": "abcd",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_10fa1d20511580b5e836b43251005f77.addTo(map_05cceeedc2f6c13b658a32f955edbc08);
+        
+    
+            var marker_3e080f02a6bab750e1c4fa46ccb7a38a = L.marker(
+                [48.856614, 2.3522219],
+                {
+}
+            ).addTo(map_05cceeedc2f6c13b658a32f955edbc08);
+        
+    
+            var icon_1a6f0ec77a88f7b3a309e2f8356f33ff = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "building",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_ad0fdb245f9396f07106eb9b527d50ee = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_887286200efd4c33eb34741ed511ab60 = $(`<div id="html_887286200efd4c33eb34741ed511ab60" style="width: 100.0%; height: 100.0%;">Immeuble de bureaux</div>`)[0];
+                popup_ad0fdb245f9396f07106eb9b527d50ee.setContent(html_887286200efd4c33eb34741ed511ab60);
+            
+        
+
+        marker_3e080f02a6bab750e1c4fa46ccb7a38a.bindPopup(popup_ad0fdb245f9396f07106eb9b527d50ee)
+        ;
+
+        
+    
+    
+                marker_3e080f02a6bab750e1c4fa46ccb7a38a.setIcon(icon_1a6f0ec77a88f7b3a309e2f8356f33ff);
+            
+    
+            var heat_map_52b414b2b938e9717e9dfd701209f39b = L.heatLayer(
+                [[48.856814, 2.3522219, 1.0], [48.856614, 2.3524219, 0.8326664088768473], [48.856814, 2.3526219, 0.8951705382088045], [48.856814, 2.3522219, 0.9040970655494637], [48.857114, 2.3525219, 0.8842296651207814], [48.856714000000004, 2.3525219, 0.8142110479156156], [48.856914, 2.3527219, 0.8655883881904947], [48.856914, 2.3523219, 0.8631612372886999], [48.856414, 2.3522219, 0.9039219050496927], [48.856614, 2.3524219, 0.9767487240684355], [48.856614, 2.3520219, 0.95955277734386], [48.856914, 2.3523219, 0.9335578324144237], [48.856514000000004, 2.3523219, 0.8400144430587531], [48.856714000000004, 2.3525219, 0.8909712957011412], [48.856714000000004, 2.3521219, 0.8941006250976314], [48.857014, 2.3524219, 0.9348382454244439]],
+                {
+  "minOpacity": 0.5,
+  "maxZoom": 18,
+  "radius": 15,
+  "blur": 15,
+}
+            );
+        
+    
+            heat_map_52b414b2b938e9717e9dfd701209f39b.addTo(map_05cceeedc2f6c13b658a32f955edbc08);
+        
+    
+            var circle_marker_949c84e8d6c9b4710febea0138d1a7c7 = L.circleMarker(
+                [48.856814, 2.3522219],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_05cceeedc2f6c13b658a32f955edbc08);
+        
+    
+        var popup_7cb1b2387425a7d1ff242a4714062163 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_82874f8f2e8a26229b4fa7319912227f = $(`<div id="html_82874f8f2e8a26229b4fa7319912227f" style="width: 100.0%; height: 100.0%;">Zone Nord - RDC<br>Consommation: 19524.95 kWh</div>`)[0];
+                popup_7cb1b2387425a7d1ff242a4714062163.setContent(html_82874f8f2e8a26229b4fa7319912227f);
+            
+        
+
+        circle_marker_949c84e8d6c9b4710febea0138d1a7c7.bindPopup(popup_7cb1b2387425a7d1ff242a4714062163)
+        ;
+
+        
+    
+    
+            var circle_marker_8e291b6c72de178006a7cd4a9014a20a = L.circleMarker(
+                [48.856614, 2.3524219],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_05cceeedc2f6c13b658a32f955edbc08);
+        
+    
+        var popup_c413410c4b798443c7a48a93402df684 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_4c3920c0e490a4ee8f8ab0c46bd2c164 = $(`<div id="html_4c3920c0e490a4ee8f8ab0c46bd2c164" style="width: 100.0%; height: 100.0%;">Zone Sud - Étage 2<br>Consommation: 16257.77 kWh</div>`)[0];
+                popup_c413410c4b798443c7a48a93402df684.setContent(html_4c3920c0e490a4ee8f8ab0c46bd2c164);
+            
+        
+
+        circle_marker_8e291b6c72de178006a7cd4a9014a20a.bindPopup(popup_c413410c4b798443c7a48a93402df684)
+        ;
+
+        
+    
+    
+            var circle_marker_406f4deb20b16b6229ffc973941abf60 = L.circleMarker(
+                [48.856814, 2.3526219],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_05cceeedc2f6c13b658a32f955edbc08);
+        
+    
+        var popup_b229cb74a5b0e26b25a0d01e408f4896 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_856e8ec0384fabdfc15695caff045355 = $(`<div id="html_856e8ec0384fabdfc15695caff045355" style="width: 100.0%; height: 100.0%;">Zone Est - Étage 2<br>Consommation: 17478.16 kWh</div>`)[0];
+                popup_b229cb74a5b0e26b25a0d01e408f4896.setContent(html_856e8ec0384fabdfc15695caff045355);
+            
+        
+
+        circle_marker_406f4deb20b16b6229ffc973941abf60.bindPopup(popup_b229cb74a5b0e26b25a0d01e408f4896)
+        ;
+
+        
+    
+    
+            var circle_marker_91e399ff2fbbc86db155a0936c0b3f0e = L.circleMarker(
+                [48.856814, 2.3522219],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_05cceeedc2f6c13b658a32f955edbc08);
+        
+    
+        var popup_663d07937500364e7fc4bf76a15aadc1 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_050c03da9a9561ed9907585035ae2a72 = $(`<div id="html_050c03da9a9561ed9907585035ae2a72" style="width: 100.0%; height: 100.0%;">Zone Ouest - Étage 2<br>Consommation: 17652.45 kWh</div>`)[0];
+                popup_663d07937500364e7fc4bf76a15aadc1.setContent(html_050c03da9a9561ed9907585035ae2a72);
+            
+        
+
+        circle_marker_91e399ff2fbbc86db155a0936c0b3f0e.bindPopup(popup_663d07937500364e7fc4bf76a15aadc1)
+        ;
+
+        
+    
+    
+            var circle_marker_6ddbb9ae6c7b1cc1a4df24c675643c46 = L.circleMarker(
+                [48.857114, 2.3525219],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_05cceeedc2f6c13b658a32f955edbc08);
+        
+    
+        var popup_1d4459f3da13375a4863b348af1f9dbd = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_2b76ed2888dc5e6e98f10bdaeddcbe44 = $(`<div id="html_2b76ed2888dc5e6e98f10bdaeddcbe44" style="width: 100.0%; height: 100.0%;">Zone Nord - Étage 3<br>Consommation: 17264.54 kWh</div>`)[0];
+                popup_1d4459f3da13375a4863b348af1f9dbd.setContent(html_2b76ed2888dc5e6e98f10bdaeddcbe44);
+            
+        
+
+        circle_marker_6ddbb9ae6c7b1cc1a4df24c675643c46.bindPopup(popup_1d4459f3da13375a4863b348af1f9dbd)
+        ;
+
+        
+    
+    
+            var circle_marker_321c46f0d8f51cf4ea3246042566c65e = L.circleMarker(
+                [48.856714000000004, 2.3525219],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_05cceeedc2f6c13b658a32f955edbc08);
+        
+    
+        var popup_c49d8d3b5ab4f9c47e51231f542ae4de = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_cbc696caf67b1e29bd76dee6d848f496 = $(`<div id="html_cbc696caf67b1e29bd76dee6d848f496" style="width: 100.0%; height: 100.0%;">Zone Sud - Étage 3<br>Consommation: 15897.43 kWh</div>`)[0];
+                popup_c49d8d3b5ab4f9c47e51231f542ae4de.setContent(html_cbc696caf67b1e29bd76dee6d848f496);
+            
+        
+
+        circle_marker_321c46f0d8f51cf4ea3246042566c65e.bindPopup(popup_c49d8d3b5ab4f9c47e51231f542ae4de)
+        ;
+
+        
+    
+    
+            var circle_marker_4b6c34a741de46384e35b808088f5126 = L.circleMarker(
+                [48.856914, 2.3527219],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_05cceeedc2f6c13b658a32f955edbc08);
+        
+    
+        var popup_9470a77eb4a687098db473a82dbd16b1 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_480a11180be783e3baf16af5241d8dc9 = $(`<div id="html_480a11180be783e3baf16af5241d8dc9" style="width: 100.0%; height: 100.0%;">Zone Est - Étage 3<br>Consommation: 16900.57 kWh</div>`)[0];
+                popup_9470a77eb4a687098db473a82dbd16b1.setContent(html_480a11180be783e3baf16af5241d8dc9);
+            
+        
+
+        circle_marker_4b6c34a741de46384e35b808088f5126.bindPopup(popup_9470a77eb4a687098db473a82dbd16b1)
+        ;
+
+        
+    
+    
+            var circle_marker_e945e85ed966b92f5e5146594b0798d9 = L.circleMarker(
+                [48.856914, 2.3523219],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_05cceeedc2f6c13b658a32f955edbc08);
+        
+    
+        var popup_7163eac3b42cec04502c3c9b8e9e88e3 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_18c904eadc2480cd515ba2763f53459d = $(`<div id="html_18c904eadc2480cd515ba2763f53459d" style="width: 100.0%; height: 100.0%;">Zone Ouest - Étage 3<br>Consommation: 16853.18 kWh</div>`)[0];
+                popup_7163eac3b42cec04502c3c9b8e9e88e3.setContent(html_18c904eadc2480cd515ba2763f53459d);
+            
+        
+
+        circle_marker_e945e85ed966b92f5e5146594b0798d9.bindPopup(popup_7163eac3b42cec04502c3c9b8e9e88e3)
+        ;
+
+        
+    
+    
+            var circle_marker_f736bc14e1b55e794a3c7b90bd776e5b = L.circleMarker(
+                [48.856414, 2.3522219],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_05cceeedc2f6c13b658a32f955edbc08);
+        
+    
+        var popup_9ce268e8379d3a044d9cf13d3c1ae73e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a7cc8517a6211eab1bd8f01f57854497 = $(`<div id="html_a7cc8517a6211eab1bd8f01f57854497" style="width: 100.0%; height: 100.0%;">Zone Sud - RDC<br>Consommation: 17649.03 kWh</div>`)[0];
+                popup_9ce268e8379d3a044d9cf13d3c1ae73e.setContent(html_a7cc8517a6211eab1bd8f01f57854497);
+            
+        
+
+        circle_marker_f736bc14e1b55e794a3c7b90bd776e5b.bindPopup(popup_9ce268e8379d3a044d9cf13d3c1ae73e)
+        ;
+
+        
+    
+    
+            var circle_marker_308dc7bd00a12c63491d0d8e7871ef97 = L.circleMarker(
+                [48.856614, 2.3524219],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_05cceeedc2f6c13b658a32f955edbc08);
+        
+    
+        var popup_092da2a7d2892c6d537778a0360ca96e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a719b915b8178d92d2f2e3c49456abc1 = $(`<div id="html_a719b915b8178d92d2f2e3c49456abc1" style="width: 100.0%; height: 100.0%;">Zone Est - RDC<br>Consommation: 19070.97 kWh</div>`)[0];
+                popup_092da2a7d2892c6d537778a0360ca96e.setContent(html_a719b915b8178d92d2f2e3c49456abc1);
+            
+        
+
+        circle_marker_308dc7bd00a12c63491d0d8e7871ef97.bindPopup(popup_092da2a7d2892c6d537778a0360ca96e)
+        ;
+
+        
+    
+    
+            var circle_marker_8011865c2cd008f7a5ecbbd915b5318a = L.circleMarker(
+                [48.856614, 2.3520219],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_05cceeedc2f6c13b658a32f955edbc08);
+        
+    
+        var popup_173ddf9c2c644444f05334300a57e0f8 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_fd2f3c06d94bc6a0b566dee9cdd631de = $(`<div id="html_fd2f3c06d94bc6a0b566dee9cdd631de" style="width: 100.0%; height: 100.0%;">Zone Ouest - RDC<br>Consommation: 18735.22 kWh</div>`)[0];
+                popup_173ddf9c2c644444f05334300a57e0f8.setContent(html_fd2f3c06d94bc6a0b566dee9cdd631de);
+            
+        
+
+        circle_marker_8011865c2cd008f7a5ecbbd915b5318a.bindPopup(popup_173ddf9c2c644444f05334300a57e0f8)
+        ;
+
+        
+    
+    
+            var circle_marker_058d792e40305467208240f47697881d = L.circleMarker(
+                [48.856914, 2.3523219],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_05cceeedc2f6c13b658a32f955edbc08);
+        
+    
+        var popup_03dc7b03f30bbcbd3f970f025f84e9d6 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_7d1b33068a60c4f1a9a069101439d4cd = $(`<div id="html_7d1b33068a60c4f1a9a069101439d4cd" style="width: 100.0%; height: 100.0%;">Zone Nord - Étage 1<br>Consommation: 18227.67 kWh</div>`)[0];
+                popup_03dc7b03f30bbcbd3f970f025f84e9d6.setContent(html_7d1b33068a60c4f1a9a069101439d4cd);
+            
+        
+
+        circle_marker_058d792e40305467208240f47697881d.bindPopup(popup_03dc7b03f30bbcbd3f970f025f84e9d6)
+        ;
+
+        
+    
+    
+            var circle_marker_ee6e4c16d7a1da49b1dd534dfed89b5c = L.circleMarker(
+                [48.856514000000004, 2.3523219],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_05cceeedc2f6c13b658a32f955edbc08);
+        
+    
+        var popup_735ff31b7d7ea31cfa5389ef6a98a19e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_774746c3a80209dbe64be4f89c6c942d = $(`<div id="html_774746c3a80209dbe64be4f89c6c942d" style="width: 100.0%; height: 100.0%;">Zone Sud - Étage 1<br>Consommation: 16401.24 kWh</div>`)[0];
+                popup_735ff31b7d7ea31cfa5389ef6a98a19e.setContent(html_774746c3a80209dbe64be4f89c6c942d);
+            
+        
+
+        circle_marker_ee6e4c16d7a1da49b1dd534dfed89b5c.bindPopup(popup_735ff31b7d7ea31cfa5389ef6a98a19e)
+        ;
+
+        
+    
+    
+            var circle_marker_9390e47f80bb681c19af51bc6b9dccfb = L.circleMarker(
+                [48.856714000000004, 2.3525219],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_05cceeedc2f6c13b658a32f955edbc08);
+        
+    
+        var popup_10d4edaa122210102862fb0666ecc84f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_9322303300e92b81b4bb13e2232caead = $(`<div id="html_9322303300e92b81b4bb13e2232caead" style="width: 100.0%; height: 100.0%;">Zone Est - Étage 1<br>Consommation: 17396.17 kWh</div>`)[0];
+                popup_10d4edaa122210102862fb0666ecc84f.setContent(html_9322303300e92b81b4bb13e2232caead);
+            
+        
+
+        circle_marker_9390e47f80bb681c19af51bc6b9dccfb.bindPopup(popup_10d4edaa122210102862fb0666ecc84f)
+        ;
+
+        
+    
+    
+            var circle_marker_f77ade7179206dcf5bcce011c3e0ee84 = L.circleMarker(
+                [48.856714000000004, 2.3521219],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_05cceeedc2f6c13b658a32f955edbc08);
+        
+    
+        var popup_ffe90c7b356ad7354165920551e8111e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_1140b7a712867b002e48a4bd4d412946 = $(`<div id="html_1140b7a712867b002e48a4bd4d412946" style="width: 100.0%; height: 100.0%;">Zone Ouest - Étage 1<br>Consommation: 17457.27 kWh</div>`)[0];
+                popup_ffe90c7b356ad7354165920551e8111e.setContent(html_1140b7a712867b002e48a4bd4d412946);
+            
+        
+
+        circle_marker_f77ade7179206dcf5bcce011c3e0ee84.bindPopup(popup_ffe90c7b356ad7354165920551e8111e)
+        ;
+
+        
+    
+    
+            var circle_marker_e1e9e4d972e9b4ff245af706cde8a863 = L.circleMarker(
+                [48.857014, 2.3524219],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_05cceeedc2f6c13b658a32f955edbc08);
+        
+    
+        var popup_336edd2f8b9f5ce1bd29723cf32a868a = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a40a4b0241304b1a2d5ff07fe5ff752b = $(`<div id="html_a40a4b0241304b1a2d5ff07fe5ff752b" style="width: 100.0%; height: 100.0%;">Zone Nord - Étage 2<br>Consommation: 18252.67 kWh</div>`)[0];
+                popup_336edd2f8b9f5ce1bd29723cf32a868a.setContent(html_a40a4b0241304b1a2d5ff07fe5ff752b);
+            
+        
+
+        circle_marker_e1e9e4d972e9b4ff245af706cde8a863.bindPopup(popup_336edd2f8b9f5ce1bd29723cf32a868a)
+        ;
+
+        
+    
+</script>
+</html>
